@@ -6,5 +6,13 @@
   * [How does PlaceCal work?](how-does-placecal-work.md)
   * [Who runs PlaceCal?](who-runs-placecal.md)
   * [Who is PlaceCal for?](who-is-placecal-for.md)
-* [First Chapter](chapter1.md)
+* [Joining PlaceCal](joining-placecal.md)
+  * [Getting started](joining-placecal/getting-started.md)
+  * [Support and maintanance](joining-placecal/support-and-maintanance.md)
+* [Setting up your calendar](setting-up-your-calendar.md)
+  * [Google Calendar](setting-up-your-calendar/google-calendar.md)
+  * [Outlook 365 \(web access\)](setting-up-your-calendar/outlook-365.md)
+  * [Mac Calendar](setting-up-your-calendar/mac-calendar.md)
+  * [Other Options](setting-up-your-calendar/facebook.md)
+* Writing good event descriptions
 
