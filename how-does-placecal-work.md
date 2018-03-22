@@ -14,7 +14,7 @@ Places are where **Events** take place. Events are added to PlaceCal through **C
 
 Partner Managers and Admins are supported by **Secretaries**: local community development workers who help Partners get all the information about their organisation and their Places on PlaceCal. Secretaries can create Places and Partners in PlaceCal, create user accounts, and are available on the phone to chat to for support.
 
-Secretaries manage one or more **Turfs**: neighbourhood regions \(Hulme, Moston\) or interest groups \(Cycling, Age Friendly\). These Turfs are each visible on a different PlaceCal subdomain name like hulme.placecal.org or cycling.placecal.org. Citizens can then easily view all the events on one Turf: this is the key strength of PlaceCal.
+Secretaries manage one or more **Turfs**: neighbourhood regions \(Hulme, Moston\) or interest groups \(Cycling, Age Friendly\). These Turfs are each visible on a different PlaceCal subdomain name like `hulme.placecal.org` or `cycling.placecal.org`. Citizens can then easily view all the events on one Turf: this is the key strength of PlaceCal.
 
 **Comissioners** are the people who fund PlaceCal and want to use it to help people work together in their region. They commission one or more Turfs, by funding us to train a Secretary \(employed by you or us\), and funding our **PlaceCal Developers** to update and maintain the site.
 
