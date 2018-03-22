@@ -18,5 +18,5 @@ Secretaries manage one or more **Turfs**: neighbourhood regions \(Hulme, Moston\
 
 **Comissioners** are the people who fund PlaceCal and want to use it to help people work together in their region. They commission one or more Turfs, by funding us to train a Secretary \(employed by you or us\), and funding our **PlaceCal Developers** to update and maintain the site.
 
-Every Event, Place, Partner Admin, Partner Manager, Turf, Secretary and Comissioner is part of the PlaceCal platform. All of these things are available through the PlaceCal API, allowing **External Developers** to create their own Citizen experiences using all the information in the system.
+Every Event, Place, Partner Admin, Partner Manager, Turf, Secretary and Comissioner is part of the PlaceCal platform. All of these things are available through the PlaceCal API, allowing **External Developers** to create their own Citizen experiences using all the information in the system. This means that you might commission PlaceCal to enable this information on your behalf, letting you get on with the look and feel of your site using your existing team.
 
