@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [What is PlaceCal?](README.md)
   * [Why did we start PlaceCal?](why-did-we-start-placecal.md)
   * [How do I join PlaceCal?](how-do-i-join-placecal.md)
   * [How does PlaceCal work?](how-does-placecal-work.md)
