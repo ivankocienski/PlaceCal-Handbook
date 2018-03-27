@@ -20,9 +20,13 @@ It is a website…
 
 ![It's a website](https://placecal.org/assets/presentation/desktop/std-1-dcc7cd4e963ecf86e80f22914c4cd693bcc0da25128e4d6187a1c6683c94f233.png)
 
-But it's also a conduit for event information that's turned into posters, flyers, brochures, and hopefully local TV and radio broadcasts.
+… and it's also a conduit for event information that's turned into posters, flyers, brochures, and hopefully local TV and radio broadcasts.
 
 ![Also radio, TV etc](https://placecal.org/assets/presentation/desktop/std-2-429554ff786838974f7d0b2f7f3a909aed6aff299285be4af0aaa0dcbcd028fd.png)
+
+Having all this information in one place means that it's the perfect information source for social prescribers like doctors, nurses, library assitants, and social care workers to find good things to do for their patients.
+
+**[Picture: social prescribers]**
 
 
 ## How it works  
