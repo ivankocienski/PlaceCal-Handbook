@@ -36,6 +36,9 @@ Having all this information in one place means that it's the perfect information
 
 Each neighbourhood or interest group has it's own Secretary, who is the human face of PlaceCal. Secretaries are the "curators" of PlaceCal, working with organisations to promote events in the area as a whole.
 
+**[Picture: secretaries]**
+
+
 ## How it works  
 
 PlaceCal works with your existing technology, helping you set something up if needed. This means that it hooks into your existing event management software, updating itself automatically when you're set up.
@@ -51,8 +54,3 @@ PlaceCal's importer adds additional contextual information including geolocation
 ![Outputs](https://placecal.org/assets/presentation/desktop/std-5-cd71732e783aca053de069b45effd76626f654d5a916b01350e80ea11b784e37.png)
 
 All that information is then output across a range of media to reach the whole community.
-
-
-## WHAT WE'RE DOING
-
-PlaceCal was designed by Geeks for Social Change and PHASE@MMU as a community intervention to reduce social isolation for older people, and is based on our world-leading research into Age Friendly Cities. We won funding from CityVerve \(Manchester City Council's technology accelerator\) to make a prototype in Hulme & Moss Side. We are currently seeking investors and partners to help roll PlaceCal out to other neighbourhoods.
