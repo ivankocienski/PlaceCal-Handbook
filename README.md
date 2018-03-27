@@ -43,5 +43,4 @@ All that information is then output across a range of media to reach the whole c
 
 ## WHAT WE'RE DOING
 
-![](https://placecal.org/assets/presentation/desktop/std-6-ad7612ff48a04e768458efb0bd215ceffc6feb4f55f4a76381217532ae5ea2c6.pn
 PlaceCal was designed by Geeks for Social Change and PHASE@MMU as a community intervention to reduce social isolation for older people, and is based on our world-leading research into Age Friendly Cities. We won funding from CityVerve \(Manchester City Council's technology accelerator\) to make a prototype in Hulme & Moss Side. We are currently seeking investors and partners to help roll PlaceCal out to other neighbourhoods.
