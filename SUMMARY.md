@@ -16,4 +16,5 @@
   * [Other Options](setting-up-your-calendar/facebook.md)
 * [Writing good event descriptions](writing-good-event-descriptions.md)
 * [Common concerns](faq.md)
+* [Developers](developer-documentation.md)
 
