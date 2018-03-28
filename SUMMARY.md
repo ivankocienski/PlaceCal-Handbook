@@ -20,3 +20,4 @@
     * [Other Options](admins/facebook.md)
   * [Writing good event descriptions](admins/writing-good-event-descriptions.md)
 * [Developers](developers.md)
+  * [User access model](developers/user-access.md)

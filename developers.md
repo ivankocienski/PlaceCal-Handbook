@@ -1,23 +1,28 @@
-# User Access
+# Developer Setup
 
-PlaceCal's primary customers are **Commissioners**: generally public sector organisations charged with supporting \(or "asset mapping"\) a **neighbourhood** or **interest**, and often both. For example, "Age Friendly Hulme and Moss Side" is a commission in an neighbourhood \(Hulme & Moss Side\) _and_ with an interest \(age friendly\). "Greater Manchester Cycling Forum" has an interest \(cycling\) and a larger area \(Greater Manchester\). We refer to neighbourhoods and interests together as **Turfs**: territories over which the comissioner is responsible for.
+## Tools
 
-We help each Comissioner hire and train one or more **Secretary** to identify and train relevant organsations within their turf. Secretaries are effectively the "curators" of PlaceCal, who decide what goes in and what doesn't, and support organisations in creating good event descriptions. Later on this person might take the role of a local journalist, adding news and updates about the turf directly.
+* Trello for project management / tasks: https://trello.com/b/mA4Rwzum/dev-backlog 
+* Dropbox for UI files which use Sketch \(need to figure out how to label current files\).
+* GitHub for code: https://github.com/geeksforsocialchange/PlaceCal
+* Rollbar for bug reporting
+* Add new admin to https://placecal.org/users 
 
-Turfs are created by the PlaceCal team, and then are assigned to your Secretary. A Secretary is therefore defined as any User who has been assigned one or more Turfs. Secretaries can do the following within the PlaceCal admin interface.
+## Hosting / Environment
 
-* Create and update Partners in any Turf they have been assigned
-* Create and update Places in any Turf they have been assigned
-* Create and update Calendars
-* Create new User accounts for Partners
-* Link User accounts to Places
-* Link Places to Partners
-* Link Calendars to Partners
+* Rails 5 / Ruby 2.4 / postgresql
+* `rails db:setup db:migrate db:seed`
+* `rails import:all_events`
+* To log in you need to go to `/users` and then `/superadmin` \(for now!\)
+* Prod server is a [Digital Ocean box running this setup](https://gist.github.com/kimadactyl/5c277d2698f754edf3daa5fd84488851)
 
-Partner Admin accounts allow individual Partners to update their information without  needing to contact the Secretary. Later on, this will show more useful information about the Partner's events, allowing ticketing options and regular printoffs for example. A Partner Admin is therefore defined as any User who has been assigned to one or more Partners. A Partner Admin can:
+## Notes
 
-* Update their Partner information
-* Create and update their Partner's Calendars
-* Update their Partner's Places
+We’re using the [Mountain View](https://github.com/devnacho/mountain_view) gem for frontend components. Anything and everything reusable should be encapsulated in a component and given some mocks to test it. Components are at [https://placecal.org/styleguide](https://placecal.org/styleguide).  For each component add a line to `test/controllers/components_test.rb`: easy tests!
 
-![PlaceCal access control diagram](/assets/access-control.jpg)
+Ideally the Sketch art should export directly into our repo file structure somehow, so if we can work towards having a master Sketch file for anything live then take the time to do it.
+
+Currently using Travis but not really, need to move to dev ops
+
+
+
