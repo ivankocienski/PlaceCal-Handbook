@@ -1,22 +1,22 @@
 # Welcome to PlaceCal
 
-PlaceCal is a partnership of community organisations, charities, social housing providers, government services, health providers, and citizens. 
+PlaceCal is a holistic social and technical toolkit designed to to improve the quality, quantity and accessibility of community data. This helps to make smarter, more resilient and better connected neighbourhoods that work for everyone: especially people left behind by the "digital divide". 
 
 ![Neighbourhood scene](https://placecal.org/assets/presentation/desktop/std-6-ad7612ff48a04e768458efb0bd215ceffc6feb4f55f4a76381217532ae5ea2c6.png)
 
-We're working together to improve the quality, quantity and accessibility of community data to make smarter and better connected neighbourhoods that work for everyone.
+It's run by a partnership of community organisations, charities, social housing providers, government services, health providers, and citizens working together to reduce social isolation, encourage active citizenship, and create simple and effective information sources for neighbourhood wellness.
 
 ![PlaceCal connecting everything up](https://placecal.org/assets/presentation/desktop/std-7-e138a7da65c84b34ccbeea69d859041a4cdd8114675f550f9d984b57728dd3e4.png)
 
 PlaceCal works by training and supporting organisations to publish their information, creating and supporting local resident-led partnerships, and providing the PlaceCal platform to manage it all.
 
-**[Picture: training and support, partnerships, platform]**
+**\[Picture: training and support, partnerships, platform\]**
 
-This holistic approach to community asset mapping creates a low social capital social network for real world interaction: a radically decentralised, transparent initative managed directly by it's citizens.
+This holistic approach to community asset mapping creates a low social capital social network for real world interaction: a radically decentralised, transparent initative managed directly by it's citizens. PlaceCal provides free and open source tools, training, expertiese and support that enables communities to own and manage their own information.
 
 ## What it is
 
-Together, we've created a community events calendar that helps people find out everything that's happening near them, all in one place. 
+Together, we've created a community events calendar that helps people find out everything that's happening near them, all in one place.
 
 It's especially aimed at helping people find out about the small local events that can be hard to discover: the coffee mornings, sewing groups, computer classes and gardening groups that might be just around the corner but have little or no budget for promotion.
 
@@ -24,7 +24,7 @@ It's especially aimed at helping people find out about the small local events th
 
 It is a website…
 
-![It's a website](https://placecal.org/assets/presentation/desktop/std-1-dcc7cd4e963ecf86e80f22914c4cd693bcc0da25128e4d6187a1c6683c94f233.png)
+![It&apos;s a website](https://placecal.org/assets/presentation/desktop/std-1-dcc7cd4e963ecf86e80f22914c4cd693bcc0da25128e4d6187a1c6683c94f233.png)
 
 … and it's also a conduit for event information that's turned into posters, flyers, brochures, and hopefully local TV and radio broadcasts. [Check out our launch party](https://placecal.org/winter2017) for an example of what's possible.
 
@@ -32,14 +32,13 @@ It is a website…
 
 Having all this information in one place means that it's the perfect information source for social prescribers like doctors, nurses, library assitants, and social care workers to find good things to do for their patients.
 
-**[Picture: social prescribers]**
+**\[Picture: social prescribers\]**
 
 Each neighbourhood or interest group has it's own Secretary, who is the human face of PlaceCal. Secretaries are the "curators" of PlaceCal, working with organisations to promote events in the area as a whole.
 
-**[Picture: secretaries]**
+**\[Picture: secretaries\]**
 
-
-## How it works  
+## How it works
 
 PlaceCal works with your existing technology, helping you set something up if needed. This means that it hooks into your existing event management software, updating itself automatically when you're set up.
 
@@ -54,3 +53,4 @@ PlaceCal's importer adds additional contextual information including geolocation
 ![Outputs](https://placecal.org/assets/presentation/desktop/std-5-cd71732e783aca053de069b45effd76626f654d5a916b01350e80ea11b784e37.png)
 
 All that information is then output across a range of media to reach the whole community.
+
