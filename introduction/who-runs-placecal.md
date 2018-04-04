@@ -14,5 +14,3 @@ PlaceCal is developed in partnership with and sponsored by PHASE@MMU and mostly 
 
 
 
-
-
