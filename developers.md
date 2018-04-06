@@ -1,6 +1,10 @@
-# Developer Setup
+# Developers
 
-## Tools
+## Getting started
+
+Read the [Glossary](glossary.md).
+
+### Tools
 
 * Trello for project management / tasks: https://trello.com/b/mA4Rwzum/dev-backlog 
 * Dropbox for UI files which use Sketch \(need to figure out how to label current files\).
@@ -8,7 +12,7 @@
 * Rollbar for bug reporting
 * Add new admin to https://placecal.org/users 
 
-## Hosting / Environment
+### Hosting / Environment
 
 * Rails 5 / Ruby 2.4 / postgresql
 * `rails db:setup db:migrate db:seed`
@@ -16,7 +20,7 @@
 * To log in you need to go to `/users` and then `/superadmin` \(for now!\)
 * Prod server is a [Digital Ocean box running this setup](https://gist.github.com/kimadactyl/5c277d2698f754edf3daa5fd84488851)
 
-## Notes
+### Notes
 
 We’re using the [Mountain View](https://github.com/devnacho/mountain_view) gem for frontend components. Anything and everything reusable should be encapsulated in a component and given some mocks to test it. Components are at [https://placecal.org/styleguide](https://placecal.org/styleguide).  For each component add a line to `test/controllers/components_test.rb`: easy tests!
 
@@ -24,5 +28,14 @@ Ideally the Sketch art should export directly into our repo file structure someh
 
 Currently using Travis but not really, need to move to dev ops
 
+## User access
 
+See the [User Access Guide](developers/user-access.md)
 
+## Roadmap
+
+See the current [Roadmap](developers/roadmap.md)
+
+## Getting API access
+
+This is still in development. Drop us an email to have a chat about it.
