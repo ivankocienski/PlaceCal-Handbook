@@ -1,4 +1,4 @@
-# Secretaries
+# Secretary Guide
 
 Secretaries are the human face of PlaceCal. They are the community development workers who work with organisations to get them onboard as PlaceCal partners. Secretaries can be thought of as "neighbourhood curators": working with local organisations and partnerships they decide which information goes on the PlaceCal neighbourhood websites they manage.
 

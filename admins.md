@@ -1,4 +1,4 @@
-# Administrators
+# Administrator Guide
 
 Administrators are the people who physically maintain their organisation's listings in PlaceCal. As an Administrator, you will be maintaining an online calendar, and very occasionally updating things like contact information in the PlaceCal site.
 

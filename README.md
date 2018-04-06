@@ -1,20 +1,22 @@
 # What is PlaceCal?
 
-PlaceCal is a partnership of community organisations, charities, social housing providers, government services, health providers, and citizens working together to reduce social isolation and encourage active citizenship
+PlaceCal is a partnership of community organisations, charities, social housing providers, government services, health providers, and citizens. We're working together to create really great neighbourhood information to create healthy neighbourhood where everyone is included, encouraging community wellness and active citizenship.
 
-It's a holistic social and technical toolkit designed to to improve the quality, quantity and accessibility of community data. This helps to make smarter, more resilient and better connected neighbourhoods that work for everyone: especially people left behind by the "digital divide".
+It's a holistic social and technical toolkit designed to to improve the quality, quantity and accessibility of community data. This helps to make smarter, more resilient and better connected neighbourhoods that work better for everyone: especially people who are currently digitally excluded.
 
-PlaceCal enables simple and effective community information sources. The primary benefit is a hyperlocal crowdsourced live daily calendar for each neighbourhood. By creating one big listing together, it makes it easy for everyone to find out at a glance what's going on in an area: for everyone from older people to social prescribers like doctors and library assitants. It also creates a clear directory of who is active in each area, kept up to date by local experts.
+PlaceCal enables the creation and dissemination of simple and effective community information sources. The primary benefit is a hyperlocal crowdsourced live daily calendar for each neighbourhood. By working together to create one big daily events listing, it makes it easy for everyone to find out at a glance what's going on in an area. This can then be used by everyone: from older people to social prescribers like doctors and library assitants. It's all maintained and kept up-to-date by local experts: people in your community that know the area.
 
-It's especially aimed at helping people publish and find out about small, local, regular events that can be hard to discover. These events might be coffee mornings, sewing groups, computer classes or gardening groups: and are often run by organisations that have little or no budget or staff time for promotion. 
+We're especially keen on helping people find the small, local, regular events that can be hard to discover. These events might be coffee mornings, sewing groups, computer classes or gardening groups: and are often run by organisations that have little or no budget or staff time for promotion. 
 
-## Digital and Spatial Inclusion
+## Our approach
 
-Capability. Education and digital inclusion is at the core of everything we do. PlaceCal works by training and supporting organisations to publish their information, creating and supporting local resident-led partnerships, and providing the PlaceCal platform to manage it all.
+Education and partnership working are at the core of everything we do. PlaceCal works by training and supporting organisations to publish their information, creating and supporting local resident-led partnerships to help people work together, and providing the PlaceCal platform to manage it all and respond to people's needs.
 
-This holistic approach to community asset mapping creates a low social capital social network for real world interaction: a radically decentralised, transparent initative managed directly by it's citizens. PlaceCal provides free and open source tools, training, expertiese and support that enables communities to own and manage their own information.
+This holistic approach to community technology creates a low social capital social network for real world interaction: a radically decentralised, transparent initative managed directly by it's citizens. 
 
-Spatial and digital inclusion - scotch egg model
+The PlaceCal source code is free and open source: all our development is public and transparent. All our training materials and expertiese are avilable under a Creative Commons license, allowing you to make your own versions for your needs. Our technical support enables communities to own and manage their own information. 
+
+Spatial and digital inclusion
 
 Having all this information in one place means that it's the perfect information source for social prescribers like doctors, nurses, library assitants, and social care workers to find good things to do for their patients.
 
@@ -22,7 +24,7 @@ Having all this information in one place means that it's the perfect information
 
 Each neighbourhood or interest group has it's own Secretary, who is the human face of PlaceCal. Secretaries are the "curators" of PlaceCal, working with organisations to promote events in the area as a whole.
 
-## How we gather information
+## How it works
 
 PlaceCal works with your existing technology, helping you set something up if needed. This means that it hooks into your existing event management software, updating itself automatically when you're set up.
 
@@ -42,8 +44,6 @@ for an example of what's possible.
 
 
 ## Why did we start PlaceCal?
-
-Why you should trust us
 
 PlaceCal started as part of a research project at MMU into making cities more friendly for the over 50s and reduce social isolation. This research looks at communities, places, facilities and people in four areas of Greater Manchester.
 

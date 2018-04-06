@@ -1,4 +1,4 @@
-# Commissioners
+# Commissioner Guide
 
 PlaceCal isn't just a platform or piece of software -- it's a holistic social and technical toolkit designed to to improve the quality, quantity and accessibility of community data. This helps to make smarter, more resilient and better connected neighbourhoods that work for everyone: especially people left behind by the "digital divide".
 
@@ -15,6 +15,19 @@ Who really knows what asset mapping is anyway?
 PlaceCal fulfulls many functions for large statutory organisations, who are our main target audience. It's an asset mapping tool that enables smaller community groups in their care to publish their information. 
 
 Not a directory. Works alongside existing directories. PlaceCal is not like other directory or listings services, which require top-down maintanance from a central team. These services will always remain essential tools for large organisations.
+
+| Product-based (deficit) Approach      | PlaceCal (asset) Approach                                |
+|---------------------------------------|----------------------------------------------------------|
+| Start with technological lacks        | Start with existing facilities, staff and skills         |
+| Respond to problems                   | Identify opportunities and strengths                     |
+| Provide services                      | Invest in training and support                           |
+| Emphasise role of technology/software | Emphasise role of community knowledge                    |
+| Focus on individuals                  | Focus on neighbourhoods                                  |
+| See people and clients and consumers  | Enable people to be co-producers creating what they need |
+| Treat people as passive and "done-to" | Help people decide what's important to them              |
+| Fix people                            | Support people to do what they want                      |
+| Implement products as the solution    | See people as the answer                                 |
+
 
 ### Digital & spatial inclusion
 
