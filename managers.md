@@ -6,7 +6,7 @@ PlaceCal is a social and techological initiative to help you reach more people m
 
 Once PlaceCal is set up, it's almost no effort to maintain. It's not another event platform like Facebook or Eventbrite, and works by simply reading your existing calendar software. If you maintain a paper diary, we will help you set up a digital one using software you probably already have.
 
-[Link: See how it works in admin guide]
+\[Link: See how it works in admin guide\]
 
 ## How do I join?
 
@@ -38,7 +38,7 @@ Radio, TV, vus stops
 
 ## Immediate benefits
 
-Accessibility: AAA, Aria, colour scheme, screen readers (can we get accreditation?)
+Accessibility: AAA, Aria, colour scheme, screen readers \(can we get accreditation?\)
 
 Print mode
 
@@ -50,6 +50,10 @@ Might be all you need for a website
 
 ## Support we offer
 
+Followups
+
+Phone/email
+
 ## Privacy and security
 
 Don't store data we don't need
@@ -57,3 +61,4 @@ Don't store data we don't need
 Only use Analytics
 
 No targetted ads/cookies
+
