@@ -5,7 +5,6 @@
 * [Commissioners](commissioners.md)
 * [Secretaries](secretaries.md)
 * [Managers](managers.md)
-  * [Getting started](managers/getting-started.md)
 * [Admins](admins.md)
   * [Google Calendar](admins/google-calendar.md)
   * [Outlook 365 \(web access\)](admins/outlook-365.md)
