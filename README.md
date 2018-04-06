@@ -12,11 +12,9 @@ We're especially keen on helping people find the small, local, regular events th
 
 Education and partnership working are at the core of everything we do. PlaceCal works by training and supporting organisations to publish their information, creating and supporting local resident-led partnerships to help people work together, and providing the PlaceCal platform to manage it all and respond to people's needs.
 
-This holistic approach to community technology creates a low social capital social network for real world interaction: a radically decentralised, transparent initative managed directly by it's citizens. 
+This holistic approach to community technology creates a low social capital social network for real world interaction: a radically decentralised, transparent initative managed directly by it's citizens. This creates both spatial and digital inclusion: fairer and more inclusive neighbourhoods both on and offline.
 
 The PlaceCal source code is free and open source: all our development is public and transparent. All our training materials and expertiese are avilable under a Creative Commons license, allowing you to make your own versions for your needs. Our technical support enables communities to own and manage their own information. 
-
-Spatial and digital inclusion
 
 Having all this information in one place means that it's the perfect information source for social prescribers like doctors, nurses, library assitants, and social care workers to find good things to do for their patients.
 
