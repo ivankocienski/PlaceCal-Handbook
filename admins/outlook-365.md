@@ -34,6 +34,8 @@ Consider turning off Reminders if you use Outlook a lot. If this is the only thi
 
 ![Disable reminders](/assets/outlook-calendar/07.png)
 
+Add a Description and check everything looks OK. When you're ready, click "Save".
+
 ![](/assets/outlook-calendar/08.png)
 
 ![](/assets/outlook-calendar/09.png)
