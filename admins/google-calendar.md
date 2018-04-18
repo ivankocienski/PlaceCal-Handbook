@@ -52,7 +52,7 @@ Your event listing is complete!
 
 ![Description text](/assets/google-calendar/11.png)
 
-Repeat this for your other public events.
+Repeat this process for your other public events.
 
 ## Sharing your calendar link with PlaceCal
 
