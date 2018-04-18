@@ -37,7 +37,13 @@ If your event calendar covers multiple venues, add the venue. Be sure to use the
 If your calendar is entirely for one venue, you can either skip this step or use it to store a room number.
 
 ![Select the venue](/assets/google-calendar/08.png)
-![](/assets/google-calendar/09.png)
+
+If appropriate, add in details about how often the event repeats.
+
+![Repeating information](/assets/google-calendar/09.png)
+
+Add a description -- the more detailed the better. Descriptions support Markdown syntax if you're comfortable using that.
+
 ![](/assets/google-calendar/10.png)
 ![](/assets/google-calendar/11.png)
 ![](/assets/google-calendar/12.png)
