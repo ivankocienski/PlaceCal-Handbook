@@ -7,7 +7,7 @@
 * [Managers](managers.md)
 * [Admins](admins.md)
   * [Google Calendar](admins/google-calendar.md)
-  * [Outlook 365 \(web access\)](admins/outlook-365.md)
+  * [Outlook 365](admins/outlook-365.md)
   * [Mac Calendar](admins/mac-calendar.md)
   * [Other Options](admins/facebook.md)
   * [Writing good event descriptions](admins/writing-good-event-descriptions.md)
