@@ -39,7 +39,7 @@ The Old Abbey Taphouse use Facebook for all their events due to the great sharin
 ## How to configure each platform
 
 * [Google Calendar guide](/admins/google-calendar.md)
-* [Outlook Calendar guide](/admins/outlook-365.md)
+* [Outlook 365 Calendar guide](/admins/outlook-365.md)
 
 ## How to create good events listings
 
