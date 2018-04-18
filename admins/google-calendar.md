@@ -60,9 +60,9 @@ Your calendar is now up and running and can be updated either with a desktop bro
 
 Go back to the main screen, click on the three vertical dots next to your calendar name, and click "Settings and sharing"
 
-![Settings and sharing](/assets/google-calendar/12-5.png)
+![Settings and sharing 1](/assets/google-calendar/12-5.png)
 
-![Settings and sharing](/assets/google-calendar/12.png)
+![Settings and sharing 2](/assets/google-calendar/12.png)
 
 Select "Make available to public".
 
