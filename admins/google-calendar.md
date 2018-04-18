@@ -52,6 +52,8 @@ Your event listing is complete!
 
 ![Description text](/assets/google-calendar/11.png)
 
+Repeat this for your other public events.
+
 ## Sharing your calendar link with PlaceCal
 
 Your calendar is now up and running and can be updated either with a desktop browser, or using the Google Calendar phone or tablet app. Now you need to share this information with us so we can import it into the site.
