@@ -6,7 +6,7 @@ Firstly, let's create a new calendar for all your Public events. This makes it r
 
 Go to the "+" symbol on the left hand side of the screen.
 
-![Add other calendars button](/assets/google-calendar/01.png)
+![Click 'Add other calendars' button](/assets/google-calendar/01.png)
 
 Click on "New calendar"
 
