@@ -40,6 +40,12 @@ Add a Description and check everything looks OK. When you're ready, click "Save"
 
 Great! You've added your event and it should show up. Repeat this for your other events.
 
+## Sharing your calendar link with PlaceCal
+
+To get your events on PlaceCal we need to go through a few more steps.
+
+Click the cog at the top right of the screen.
+
 ![](/assets/outlook-calendar/09.png)
 
 ![](/assets/outlook-calendar/10.png)
