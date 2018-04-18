@@ -22,6 +22,8 @@ If your calendar is entirely for one venue, you can either skip this step or use
 
 ![Pick a venue](/assets/outlook-calendar/04.png)
 
+Add relevant information about how often this event is, if nesecary.
+
 ![](/assets/outlook-calendar/05.png)
 
 ![](/assets/outlook-calendar/06.png)
