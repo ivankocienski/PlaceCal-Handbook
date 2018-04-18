@@ -28,7 +28,7 @@ Add relevant information about how often this event is, if needed.
 
 Make sure that the calendar is set to the new calendar you just created, and not the default one in Outlook.
 
-![](/assets/outlook-calendar/06.png)
+![Select your new calendar](/assets/outlook-calendar/06.png)
 
 ![](/assets/outlook-calendar/07.png)
 
