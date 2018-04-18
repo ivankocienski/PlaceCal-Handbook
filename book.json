@@ -1,5 +1,5 @@
 {
-  "plugins": ["livereload", "styles-less"],
+  "plugins": ["styles-less"],
   "styles": {
     "website": "./styles/website.less"
   }
