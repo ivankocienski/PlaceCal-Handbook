@@ -38,24 +38,41 @@ If your calendar is entirely for one venue, you can either skip this step or use
 
 ![Select the venue](/assets/google-calendar/08.png)
 
+When this is done correctly, it will show up in the Location bar with a postcode.
+
+![Venue selected](/assets/google-calendar/09.png)
+
 If appropriate, add in details about how often the event repeats.
 
-![Repeating information](/assets/google-calendar/09.png)
+![Repeats](/assets/google-calendar/10.png)
 
-Add a description -- the more detailed the better. Descriptions support Markdown syntax if you're comfortable using that.
+Add a description -- the more detailed the better. Descriptions support [Markdown syntax](https://www.markdownguide.org/cheat-sheet) if you're comfortable using that. Links will automatically be converted into clickable links inside PlaceCal.
 
-![](/assets/google-calendar/10.png)
-![](/assets/google-calendar/11.png)
-![](/assets/google-calendar/12.png)
-![](/assets/google-calendar/13.png)
-![](/assets/google-calendar/14.png)
-![](/assets/google-calendar/15.png)
+Your event listing is complete!
 
+![Description text](/assets/google-calendar/11.png)
 
+## Sharing your calendar link with PlaceCal
 
+Your calendar is now up and running and can be updated either with a desktop browser, or using the Google Calendar phone or tablet app. Now you need to share this information with us so we can import it into the site.
 
-1. Go back to "share this calendar", for example by clicking the arrow on the right of the calendar name if you hover over it and going to "share this calendar"
-2. Add support@placecal.org as an admin and make sure to click "make changes to events and manage sharing"
+Go back to the main screen, click on the three vertical dots next to your calendar name, and click "Settings and sharing"
+
+![Settings and sharing](/assets/google-calendar/12.png)
+
+Select "Make available to public".
+
+![Make available to public](/assets/google-calendar/13.png)
+
+This will bring up a warning -- this is fine and is just warning you this information will now be public.
+
+![Public warning](/assets/google-calendar/14.png)
+
+Scroll to the "Integrate calendar setting". Copy the "Public address in iCal format" field and email it to [support@placecal.org](mailto:support@placecal.org).
+
+![Email this link](/assets/google-calendar/15.png)
+
+You're done! We will get your calendar live as quickly as we can.
 
 
 
