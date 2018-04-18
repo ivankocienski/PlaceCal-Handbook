@@ -46,16 +46,25 @@ To get your events on PlaceCal we need to go through a few more steps.
 
 Click the cog at the top right of the screen.
 
-![](/assets/outlook-calendar/09.png)
+![Click the cog](/assets/outlook-calendar/09.png)
 
-![](/assets/outlook-calendar/10.png)
+Go to "Options".
 
-![](/assets/outlook-calendar/11.png)
+![Click Options](/assets/outlook-calendar/10.png)
 
-![](/assets/outlook-calendar/12.png)
+Go to "Calendar publishing" in "Shared calendars". 
 
-![](/assets/outlook-calendar/13.png)
+![Calendar publishing](/assets/outlook-calendar/11.png)
 
+Select your calendar from the dropdown list.
+
+![Select calendar to share](/assets/outlook-calendar/12.png)
+
+Right click the "ICS" link and click on "Copy link address". Email this link to [support@placecal.org](mailto:support@placecal.org).
+
+![Copy link](/assets/outlook-calendar/13.png)
+
+Thats it! We'll get your events live as soon as we can.
 
 
 
