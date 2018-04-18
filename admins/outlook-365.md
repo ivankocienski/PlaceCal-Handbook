@@ -30,7 +30,7 @@ Make sure that the calendar is set to the new calendar you just created, and not
 
 ![Select your new calendar](/assets/outlook-calendar/06.png)
 
-Consider turning of Reminders if you use Outlook a lot. If this is the only thing you use it for it might not matter.
+Consider turning off Reminders if you use Outlook a lot. If this is the only thing you use it for it might not matter.
 
 ![Disable reminders](/assets/outlook-calendar/07.png)
 
