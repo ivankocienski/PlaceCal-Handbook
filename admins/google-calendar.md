@@ -20,16 +20,22 @@ Click the back arrow in the top left to go back.
 
 ![Click back](/assets/google-calendar/04.png)
 
+Now you can add events to your calendar. Click in the calendar grid roughly where your event is -- don't worry if it's a bit off, you can change this later.
 
+![Create an event](/assets/google-calendar/05.png)
 
-![](/assets/google-calendar/05.png)
-![](/assets/google-calendar/01.png)
-![](/assets/google-calendar/01.png)
+Make sure that the event is being created on the right calendar.
 
-
-
-
-
+![](/assets/google-calendar/06.png)
+![](/assets/google-calendar/07.png)
+![](/assets/google-calendar/08.png)
+![](/assets/google-calendar/09.png)
+![](/assets/google-calendar/10.png)
+![](/assets/google-calendar/11.png)
+![](/assets/google-calendar/12.png)
+![](/assets/google-calendar/13.png)
+![](/assets/google-calendar/14.png)
+![](/assets/google-calendar/15.png)
 
 
 
