@@ -12,11 +12,13 @@ This will bring in a little box in the left sidebar to type the name of your cal
 
 ![Add your calendar name](/assets/outlook-calendar/02.png)
 
-Now you can add events to your calendar. Click on "New" and then "Calendar event".
+Now you can add events to your calendar. Click on "New" and then "Calendar event". Give your event a name.
 
 ![New event](/assets/outlook-calendar/03.png)
 
-Give your event a name.
+If your event calendar covers multiple venues, add the venue. Be sure to use the autocompete to set the location: having the name correctly here helps PlaceCal make sure the event goes on the correct pages.
+
+If your calendar is entirely for one venue, you can either skip this step or use it to store a room number.
 
 ![](/assets/outlook-calendar/04.png)
 
