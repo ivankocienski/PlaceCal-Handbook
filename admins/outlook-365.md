@@ -20,7 +20,7 @@ If your event calendar covers multiple venues, add the venue. Be sure to use the
 
 If your calendar is entirely for one venue, you can either skip this step or use it to store a room number.
 
-![](/assets/outlook-calendar/04.png)
+![Pick a venue](/assets/outlook-calendar/04.png)
 
 ![](/assets/outlook-calendar/05.png)
 
