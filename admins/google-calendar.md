@@ -26,9 +26,15 @@ Now you can add events to your calendar. Click in the calendar grid roughly wher
 
 Make sure that the event is being created on the right calendar.
 
-![](/assets/google-calendar/06.png)
-![](/assets/google-calendar/07.png)
-![](/assets/google-calendar/08.png)
+![Check the calendar](/assets/google-calendar/06.png)
+
+Once it's created, click the pencil to edit the event information.
+
+![Click the pencil](/assets/google-calendar/07.png)
+
+If your event calendar covers multiple venues, add the venue. Be sure to use the autocompete to set the location: having the name correctly here helps PlaceCal make sure the event goes on the correct pages.
+
+![Select the venue](/assets/google-calendar/08.png)
 ![](/assets/google-calendar/09.png)
 ![](/assets/google-calendar/10.png)
 ![](/assets/google-calendar/11.png)
