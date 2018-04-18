@@ -36,7 +36,9 @@ Consider turning off Reminders if you use Outlook a lot. If this is the only thi
 
 Add a Description and check everything looks OK. When you're ready, click "Save".
 
-![](/assets/outlook-calendar/08.png)
+![Check event](/assets/outlook-calendar/08.png)
+
+Great! You've added your event and it should show up. Repeat this for your other events.
 
 ![](/assets/outlook-calendar/09.png)
 
