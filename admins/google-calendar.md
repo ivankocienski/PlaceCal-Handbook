@@ -34,6 +34,8 @@ Once it's created, click the pencil to edit the event information.
 
 If your event calendar covers multiple venues, add the venue. Be sure to use the autocompete to set the location: having the name correctly here helps PlaceCal make sure the event goes on the correct pages.
 
+If your calendar is entirely for one venue, you can either skip this step or use it to store a room number.
+
 ![Select the venue](/assets/google-calendar/08.png)
 ![](/assets/google-calendar/09.png)
 ![](/assets/google-calendar/10.png)
