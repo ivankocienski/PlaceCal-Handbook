@@ -4,6 +4,11 @@
   * [Why did we start PlaceCal?](introduction/why-did-we-start-placecal.md)
 * [Commissioners](commissioners.md)
 * [Secretaries](secretaries.md)
+  * [Getting Started](/secretaries/getting-started.md)
+  * [Initial Workshop](/secretaries/initial-workshop.md)
+  * [Initial Onboarding](/secretaries/intial-onboarding.md)
+  * [Calendar Onboarding](/secretaries/calendar-onboarding.md)
+  * [Followups](/secretaries/followups.md)
 * [Managers](managers.md)
 * [Admins](admins.md)
   * [Google Calendar](admins/google-calendar.md)
@@ -15,4 +20,3 @@
   * [User access model](developers/user-access.md)
   * [Current development goals](developers/roadmap.md)
 * [The Team](the-team.md)
-

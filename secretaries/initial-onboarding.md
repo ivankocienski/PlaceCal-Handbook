@@ -1,0 +1,69 @@
+# Initial onboarding
+
+For each organisation you will need to:
+
+ 1. Conduct initial research to determine suitability.
+ 1. Decide who to meet and what to say.
+ 1. Meet with them, introduce them to PlaceCal, and help them decide if they want to join the Partnership.
+ 1. Work with them to publish information about their organisation on PlaceCal.
+ 1. Identify the key contacts who will manage and maitain the information (Admins).
+ 1. Agree a schedule for adding event information, and optionally creating a news article.
+
+---
+
+## Initial contact
+
+Before meeting up, it's important to find out as much as you can about the organisation before you begin to save time for both of you, and ensuring that the group are suitable and you're meeting the right person. A partial checklist of this information is:
+
+ - Information about the group as a whole.
+ - Website, Facebook and Twitter links.
+ - What kinds of events they organise and places they manage. If any of these are currently published online.
+ - Paper posters or flyers you might have been given.
+ - Recent news stories.
+ - An idea of who you're meeting and what their job is.
+
+Create a ticket in your project management system with all this information to review with the group when you meet.
+
+When this is done, contact the group. Make sure to explain the benefits of the PlaceCal project for both the neighbourhood and the group itself.
+
+[Coming soon: boilerplate introduction emails]
+
+## First meeting
+
+While it's possible to do it in less time, we advise setting aside two hours for initial meetings. In these meetings you will:
+
+- Introduce the PlaceCal initiative
+- Complete the paperwork and onboarding process, filling in relevant consent forms.
+- Review the group's information based on your initial review and publish it on PlaceCal.
+- Identify who will be resposible for keeping the information up-to-date
+- If possible and time allows, set up a calendar feed. If not, schedule up a followup meeting. If the organisation already has a custom website, refer it to Geeks for Social Change.
+- Update your project managent system as needed.
+
+We will work with you to conduct the first few onboarding meetings to help you through all these stages.
+
+[Coming soon: What to expect]
+
+[Coming soon: Dos and don'ts]
+
+## Updating PlaceCal
+
+[Coming soon: How to update Partners, Places and Calendars]
+
+[Coming soon: Creating and assigning user accounts]
+
+[Coming soon: Updating and maintaining your Turfs]
+
+## Dealing with skepticism -- explaining the benefits
+
+## Accessibility advice
+
+## Addressing privacy concerns
+
+## Be patient
+
+
+## Presentation
+
+You may use or adapt the following presentation for this process.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMSMQ1yg0pRP8I52N542A-UA8K_z_jRXFDzqhOcqG9rAYVXTfhVV1KKXwmQ1Xm4LVld70ELbkGLIJ_/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

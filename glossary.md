@@ -14,6 +14,8 @@
 
 **Secretaries** support Partner Managers and Admins. They are local community development workers who help Partners get all the information about their organisation and their Places on PlaceCal. Secretaries can create Places and Partners in PlaceCal, create user accounts, and are available on the phone to chat to for support.
 
-**Turfs** are the neighbourhood regions (Hulme, Moston) or interest groups (Cycling, Age Friendly) that Secretaries manage. These Turfs are each visible on a different PlaceCal subdomain name like `hulme.placecal.org` or `cycling.placecal.org`. Citizens can then easily view all the events on one Turf: this is the key strength of PlaceCal.
+**Sites** are the individual PlaceCal instances (like `hulme.placecal.org`) that residents use. They show information about the area and who is managing it, and a range of Turfs.
+
+**Turfs** are the neighbourhood regions (Hulme, Moston) or interest groups (Cycling, Age Friendly) that Secretaries manage. These allow Secretaries to decide what to show on their Sites.
 
 **Comissioners** are the people who fund PlaceCal and want to use it to help people work together in their region. They commission one or more Turfs, by funding us to train a Secretary \(employed by you or us\), and funding our **PlaceCal Developers** to update and maintain the site.

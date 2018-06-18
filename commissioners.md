@@ -1,10 +1,18 @@
 # Commissioner Guide
 
+_This page is under heavy development -- check back in a few weeks for a full guide. In the meantime, check out our most recent presentation below._
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSkP_utmU9Mf1kl2OCPtZo_tljybcTznhiifQylwqHJoPuyj4ALg-7N5KCEJp4Tr7V1dx9YZewjGNFE/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+
 PlaceCal isn't just a platform or piece of software -- it's a holistic social and technical toolkit designed to to improve the quality, quantity and accessibility of community data. This helps to make smarter, more resilient and better connected neighbourhoods that work for everyone: especially people left behind by the "digital divide".
 
 By tackling digital inclusion with this specific approach... opens the door...
 
 Together - better for everyone
+
+
 
 ## Key benefits
 
@@ -12,7 +20,7 @@ Together - better for everyone
 
 Who really knows what asset mapping is anyway?
 
-PlaceCal fulfulls many functions for large statutory organisations, who are our main target audience. It's an asset mapping tool that enables smaller community groups in their care to publish their information. 
+PlaceCal fulfulls many functions for large statutory organisations, who are our main target audience. It's an asset mapping tool that enables smaller community groups in their care to publish their information.
 
 Not a directory. Works alongside existing directories. PlaceCal is not like other directory or listings services, which require top-down maintanance from a central team. These services will always remain essential tools for large organisations.
 
@@ -31,7 +39,7 @@ Not a directory. Works alongside existing directories. PlaceCal is not like othe
 
 ### Digital & spatial inclusion
 
-It's a digital inclusion tool that raises the level of technical capability in a neighbourhood. It's a tool to aid the creation and support of local resident-led partnerships, by empowering people with simple tools they can use to work together better. 
+It's a digital inclusion tool that raises the level of technical capability in a neighbourhood. It's a tool to aid the creation and support of local resident-led partnerships, by empowering people with simple tools they can use to work together better.
 
 Capability model -- capabilities created
 
