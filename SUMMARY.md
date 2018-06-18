@@ -6,7 +6,7 @@
 * [Secretaries](secretaries.md)
   * [Getting Started](/secretaries/getting-started.md)
   * [Initial Workshop](/secretaries/initial-workshop.md)
-  * [Initial Onboarding](/secretaries/intial-onboarding.md)
+  * [Initial Onboarding](/secretaries/initial-onboarding.md)
   * [Calendar Onboarding](/secretaries/calendar-onboarding.md)
   * [Followups](/secretaries/followups.md)
 * [Managers](managers.md)
