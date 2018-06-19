@@ -18,4 +18,4 @@
 
 **Turfs** are the neighbourhood regions (Hulme, Moston) or interest groups (Cycling, Age Friendly) that Secretaries manage. These allow Secretaries to decide what to show on their Sites.
 
-**Comissioners** are the people who fund PlaceCal and want to use it to help people work together in their region. They commission one or more Turfs, by funding us to train a Secretary \(employed by you or us\), and funding our **PlaceCal Developers** to update and maintain the site.
+**Commissioners** are the people who fund PlaceCal and want to use it to help people work together in their region. They commission one or more Turfs, by funding us to train a Secretary \(employed by you or us\), and funding our **PlaceCal Developers** to update and maintain the site.

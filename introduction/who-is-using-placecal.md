@@ -15,7 +15,3 @@ _Find out more about what PlaceCal offers social prescribers like Alasdair_
 Patsy works for Buzz, Manchester's wellbeing service. Part of her job is "asset mapping" -- working with local community organisations and keeping a list of what's going on that she can send to people like Alasdair. The existing tools she has all have their limitations: spreadsheets are hard to share with others, local council websites are hard to update and not really used.
 
 By using PlaceCal, Patsy can train up organisations to input and update their own information so she doesn't have to kepe chasing people to find out what's on. Doing this increases organisation's digital inclusion  and helps them reach more people, keeping everyone happy. PlaceCal also helps her coordinate this work with other people doing asset mapping, drastically reducing the amount of duplicate information held.
-
-## Paul, Centre Manager
-
-## Donovan, Admin Assistant
