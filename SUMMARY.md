@@ -1,7 +1,9 @@
 # Summary
 
 * [What is PlaceCal?](README.md)
-  * [Why did we start PlaceCal?](introduction/why-did-we-start-placecal.md)
+  * [Our principles](introduction/our-principles.md)
+  * [Who is using PlaceCal?](introduction/who-is-using-placecal.md)
+  * [How do I join?](introduction/how-do-i-join-placecal.md)
 * [Commissioners](commissioners.md)
 * [Secretaries](secretaries.md)
   * [Getting Started](/secretaries/getting-started.md)
