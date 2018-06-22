@@ -2,17 +2,17 @@
 
 As an Administrator \(admin\), you are responsible for updating your organisation's listings in PlaceCal. The main way you will be doing this is through the calendar software you are already using. In the future, you'll be able to update general information about your organisation as well.
 
-This guide will walk you through some of the core concepts about how PlaceCal works; give you detailed advice on publishing events; and provide some tips about how to get support. 
+This guide will walk you through some of the core concepts about how PlaceCal works; give you detailed advice on publishing events; and provide some tips about how to get support.
 
 ## Update once; publish everywhere.
 
 The core design principle of PlaceCal is to make it as simple as possible for you to get your events in front of the largest amount of people. Unlike other platforms like Facebook and Eventbrite that require updating directly through their app, PlaceCal works directly using software you already have. This means it can take a little bit longer to get setup, but once you are rolling everything you update imports directly into PlaceCal. Before starting with any software, have a bit of a think about how it's easiest for you to keep events updated and let us deal with the rest.
 
-**If you already publish a complete and up to date events listing on your organisation's website, **then stop here and [send us an email](mailto:support@placecal.org). It's possible that you need to do no further work and we can work with your IT person or team to import the information directly off your website.
+**If you already publish a complete and up to date events listing on your organisation's website, **then stop here and [send us an email](mailto:support@placecal.org). It's possible that you need to do no further work and we can work with your IT person or team to import the information directly off your website.**
 
-**If you already have a partial online calendar **that has some but not all your events, then we can use that as a starting point. Maybe you use Facebook for all your big events, but don't have the day-to-day events on as it's too much hassle. 
+If you already have a partial online calendar that has some but not all your events, then we can use that as a starting point. Maybe you use Facebook for all your big events, but don't have the day-to-day events on as it's too much hassle.
 
-**If you don't have any online calendar at all **then check out our guides how to set one up using technology your organisation probably already has.
+If you don't have any online calendar at all then check out our guides how to set one up using technology your organisation probably already has.
 
 Here's a few examples of this in practice.
 
@@ -63,4 +63,3 @@ Why we send them
 We will check back every so often
 
 Contact your secretary
-
