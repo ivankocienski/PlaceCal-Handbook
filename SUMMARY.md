@@ -1,27 +1,38 @@
 # Summary
 
-* [What is PlaceCal?](README.md)
-  * [Our principles](introduction/our-principles.md)
-  * [Who is using PlaceCal?](introduction/who-is-using-placecal.md)
-* [Commissioners](commissioners.md)
-* [Secretaries](secretaries.md)
+* [Welcome](README.md)
+
+## Introduction
+
+* [Philosophy](introduction/philosophy.md)
+* [Benefits](introduction/benefits.md)
+* [Features](introduction/features.md)
+* [Who is using PlaceCal?](introduction/who-is-using-placecal.md)
+
+## How to use PlaceCal
+
+* [Commissioner Handbook](commissioners.md)
+* [Secretary Handbook](secretaries.md)
   * [Getting Started](/secretaries/getting-started.md)
   * [Initial Workshop](/secretaries/initial-workshop.md)
   * [Initial Onboarding](/secretaries/initial-onboarding.md)
   * [Calendar Onboarding](/secretaries/calendar-onboarding.md)
   * [Followups](/secretaries/followups.md)
-* [Managers](managers.md)
+* [Manager Handbook](managers.md)
   * [Benefits](managers/benefits.md)
   * [Joining](managers/how-do-i-join-placecal.md)
   * [Management](managers/management.md)
   * [Support & Maintenance](managers/support-and-maintanance.md)
-* [Admins](admins.md)
+* [Admin Handbook](admins.md)
   * [Google Calendar](admins/google-calendar.md)
   * [Outlook 365](admins/outlook-365.md)
   * [Mac Calendar](admins/mac-calendar.md)
   * [Writing good event descriptions](admins/writing-good-event-descriptions.md)
-* [Developers](developers.md)
+* [Developer Handbook](developers.md)
   * [Glossary](glossary.md)
   * [User access model](developers/user-access.md)
   * [Current development goals](developers/roadmap.md)
+
+## The Team
+
 * [The Team](the-team.md)
