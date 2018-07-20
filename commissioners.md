@@ -10,9 +10,9 @@ PlaceCal isn't just a platform or a piece of software -- it's a holistic social 
 
 PlaceCal helps to make smarter, more resilient and better connected neighbourhoods that work for everyone: especially people at risk of being left behind by the "digital divide".
 
-By tackling digital inclusion with this specific approach, PlaceCal opens the door to healthier and happier communities -- using the existing resources at hand.
+By tackling digital inclusion with our specific approach, PlaceCal opens the door to healthier and happier communities -- using the existing resources at hand.
 
-Together we are working to improve the quality, quantity and accessibility of community data to make better connected neighbourhoods that work for everyone.
+Together, we are working to improve the quality, quantity and accessibility of community data to make better connected neighbourhoods that work for everyone.
 
 
 
