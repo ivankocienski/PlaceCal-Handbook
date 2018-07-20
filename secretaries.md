@@ -1,8 +1,10 @@
 # Secretary Guide
 
-Secretaries are the human face of PlaceCal, who work with resident-led partnerships to support neighbourhood organisations publish their information. Secretaries can be thought of as "neighbourhood curators": working with local organisations and partnerships they decide which information goes on the PlaceCal neighbourhood websites they manage.
+Secretaries are the human face of PlaceCal. These people work with the resident-led partnerships to support neighbourhood organisations to publish their information. They can be anyone but they are usually nominated by the commissioner who supports PlaceCal locally.
 
-Secretaries manage the news and information for the PlaceCal neighbourhood, create and update Places, Partners and Calendars, and create user accounts for the relevant people in those organisations. They're available on the phone or by email for one-to-one local support.
+They can be thought of as "neighbourhood curators": working with local organisations and partnerships to decide what information needs be listed on the PlaceCal neighbourhood websites they manage. They are comfortable with using the commonplace technologies that PlaceCal runs on – Google Calendar and Microsoft Excel for example.
+
+Secretaries manage the news and information for the PlaceCal neighbourhood. They create and update Places, Partners and Calendars, and create user accounts for the relevant people in those organisations. They're available on the phone or by email for one-to-one local support.
 
 The Secretary Guide has the following sections:
 
