@@ -1,26 +1,30 @@
 # Initial onboarding
 
-For each organisation you will need to:
+This page deals with how secretaries can best approach onboarding new organisations to become part of the PlaceCal Partnership. Secretaries nominate their own organisations, find them through referrals or through research in the community.
+
+For each new organisation you identify, you will need to:
 
  1. Conduct initial research to determine suitability.
- 1. Decide who to meet and what to say.
- 1. Meet with them, introduce them to PlaceCal, and help them decide if they want to join the Partnership.
- 1. Work with them to publish information about their organisation on PlaceCal.
- 1. Identify the key contacts who will manage and maitain the information (Admins).
+ 1. Decide who to meet (the potential PlaceCal Manager) and think of what to say.
+ 1. Meet with your representative, introduce the person to PlaceCal, and help them decide if they want to join the Partnership.
+ 1. Work with your representative to publish information about their organisation on PlaceCal.
+ 1. Identify the key contacts who will manage and maintain the information (Admins).
  1. Agree a schedule for adding event information, and optionally creating a news article.
 
 ---
 
 ## Initial contact
 
-Before meeting up, it's important to find out as much as you can about the organisation before you begin to save time for both of you, and ensuring that the group are suitable and you're meeting the right person. A partial checklist of this information is:
+Before meeting up with your potential Manager, it's important to find out as much as you can about the new organisation before you begin. This will save time for everyone involved by ensuring that the group is suitable and you're meeting the right person.
+
+A partial checklist of relevant information to research is:
 
  - Information about the group as a whole.
  - Website, Facebook and Twitter links.
  - What kinds of events they organise and places they manage. If any of these are currently published online.
  - Paper posters or flyers you might have been given.
  - Recent news stories.
- - An idea of who you're meeting and what their job is.
+ - An idea of who you're meeting with and what their job involves.
 
 Create a ticket in your project management system with all this information to review with the group when you meet.
 
