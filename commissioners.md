@@ -22,9 +22,11 @@ Together we are working to improve the quality, quantity and accessibility of co
 
 Who really knows what asset mapping is anyway?
 
-PlaceCal fulfulls many functions for large statutory organisations, who are our main target audience. It's an asset mapping tool that enables smaller community groups in their care to publish their information.
+PlaceCal fulfils many functions for large statutory organisations, who are our main target audience. It's an asset mapping tool that enables smaller community groups in their care to publish their information.
 
-Not a directory. Works alongside existing directories. PlaceCal is not like other directory or listings services, which require top-down maintanance from a central team. These services will always remain essential tools for large organisations.
+PlaceCal is not a directory. It works alongside existing directories. PlaceCal is not like other directory or listings services, which require top-down maintenance from a central team. These services will always remain essential tools for large organisations.
+
+PlaceCal is the missing link between directories and the people who need them. We produced a table to show how PlaceCal differs from other (product-based) solutions as an asset-based approach.
 
 | Product-based (deficit) Approach      | PlaceCal (asset) Approach                                |
 |---------------------------------------|----------------------------------------------------------|
