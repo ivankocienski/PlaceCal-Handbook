@@ -6,11 +6,13 @@ _This page is under heavy development -- check back in a few weeks for a full gu
 
 ---
 
-PlaceCal isn't just a platform or piece of software -- it's a holistic social and technical toolkit designed to to improve the quality, quantity and accessibility of community data. This helps to make smarter, more resilient and better connected neighbourhoods that work for everyone: especially people left behind by the "digital divide".
+PlaceCal isn't just a platform or a piece of software -- it's a holistic social and technical toolkit designed to improve the quality, quantity and accessibility of community data.
 
-By tackling digital inclusion with this specific approach... opens the door...
+PlaceCal helps to make smarter, more resilient and better connected neighbourhoods that work for everyone: especially people at risk of being left behind by the "digital divide".
 
-Together - better for everyone
+By tackling digital inclusion with this specific approach, PlaceCal opens the door to healthier and happier communities -- using the existing resources at hand.
+
+Together we are working to improve the quality, quantity and accessibility of community data to make better connected neighbourhoods that work for everyone.
 
 
 
