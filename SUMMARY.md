@@ -5,8 +5,8 @@
 ## Introduction
 
 * [Philosophy](introduction/philosophy.md)
-* [Benefits](introduction/benefits.md)
-* [Features](introduction/features.md)
+* [Why use PlaceCal?](introduction/benefits.md)
+* [What does it do?](introduction/features.md)
 * [Who is using PlaceCal?](introduction/who-is-using-placecal.md)
 
 ## How to use PlaceCal
