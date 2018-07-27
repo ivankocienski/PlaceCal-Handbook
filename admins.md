@@ -48,11 +48,21 @@ It's much easier for the Admins to list their events and, by ensuring a wide cov
 
 ### Example 2: Hulme Community Garden Centre
 
-Hulme Community Garden Centre use Facebook to list their big public events like festivals and open days. This worked well but meant that people on Facebook were struggling to get the information, and was making it hard to list the smaller events.
+Hulme Community Garden Centre brings the local community together through gardening through providing free access to education and skills training.
 
-They were already using GSuite, and so created a second calendar using Google Calendar that they then shared with all the staff for their weekly events with regular groups like home education lessons and groups for people with learning difficulties.
+## The problem
 
-We import both these calendars into PlaceCal. This means that they still use Facebook to update their big events and get public pages for everything on PlaceCal, and list all their events from both calendars together on PlaceCal.
+Hulme Community Garden Centre were using Facebook to list their big public events like gardening festivals and open days. This was working well, but it meant that people following them on Facebook were struggling to find the right information since it was hard for them to list their smaller events.
+
+## How PlaceCal helped
+
+They were already using Google's GSuite tools, and so we helped them create a second calendar using Google Calendar.  They shared this calendar with every staff member for their weekly events, which included regular groups like home education lessons, and groups for people with learning difficulties.
+
+We imported both of these calendars into PlaceCal, along with the Facebook events. This approach means that they can still use Facebook to promote their big events, while publishing comprehensive listings on PlaceCal. A bonus is that they can list every event from both Facebook and Google Calendar together on PlaceCal.
+
+## The outcome
+
+Hulme Community are now attracting more people to their smaller events, and they haven't had to use anymore new software. It's easier for their staff to organise their groups and communicate the information to their attendees. 
 
 ### Example 3: The Old Abbey Taphouse
 
