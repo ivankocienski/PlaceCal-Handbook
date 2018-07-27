@@ -1,6 +1,6 @@
-# Support, training and maintanance
+# Support, training and maintenance
 
-## Followup support
+## Follow-up support
 
 When they have a calendar, period of time where we work with them to get the descriptions right before publishing.
 
