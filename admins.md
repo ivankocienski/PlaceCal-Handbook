@@ -1,28 +1,38 @@
 # Administrator Guide
 
-As an Administrator \(admin\), you are responsible for updating your organisation's listings in PlaceCal. The main way you will be doing this is through the calendar software you are already using. In the future, you'll be able to update general information about your organisation as well.
+PlaceCal Administrators \(admin\) support the Managers. They are the people who update the events listings and other information directly. They might also be responsible for other tasks like running the reception desk or answering phone calls. It's possible to be a Manager and an Admin.
 
-This guide will walk you through some of the core concepts about how PlaceCal works; give you detailed advice on publishing events; and provide some tips about how to get support.
+As an Admin, you're ultimately responsible for updating your organisation's listings in PlaceCal. The main way you will be doing this is through the calendar software you are already using. In the future, you'll be able to update general information about your organisation as well.
 
-## Update once; publish everywhere.
+This guide walks you through some of the core concepts behind how PlaceCal works. You'll find  detailed advice on publishing events and learn new tips about getting the support you need.
 
-The core design principle of PlaceCal is to make it as simple as possible for you to get your events in front of the largest amount of people. Unlike other platforms like Facebook and Eventbrite that require updating directly through their app, PlaceCal works directly using software you already have. This means it can take a little bit longer to get setup, but once you are rolling everything you update imports directly into PlaceCal. Before starting with any software, have a bit of a think about how it's easiest for you to keep events updated and let us deal with the rest.
+## Update once, publish everywhere.
 
-**If you already publish a complete and up to date events listing on your organisation's website, **then stop here and [send us an email](mailto:support@placecal.org). It's possible that you need to do no further work and we can work with your IT person or team to import the information directly off your website.**
+The core design principle of PlaceCal is to make it as simple as possible for you to get your events in front of the largest number of people.
 
-If you already have a partial online calendar that has some but not all your events, then we can use that as a starting point. Maybe you use Facebook for all your big events, but don't have the day-to-day events on as it's too much hassle.
+Unlike other platforms such as Facebook or Eventbrite (which require you to use their own app), PlaceCal works directly using the software you already have in your organisation. This means it can take a little bit longer to get set up – but once you're rolling everything you update is imported automatically into PlaceCal.
 
-If you don't have any online calendar at all then check out our guides how to set one up using technology your organisation probably already has.
+Before getting started with any new software, think about how it might be easiest for you to keep events updated. Let us deal with the rest.
 
-Here's a few examples of this in practice.
+**If you already publish a complete and up-to-date events listing on your organisation's website, **then stop here and [send us an email](mailto:support@placecal.org). It's possible that you already have everything we need work with. We can instruct your IT person or team how to import the information directly from your website.**
 
-### Example 1: Big Life Centers
+If you already have a partial online calendar that has some – but not all – of your events, we can use that as a starting point. Maybe you use Facebook for all your big events, but don't include smaller the day-to-day events as it's too much hassle.
 
-Big Life Centres manage two venues in Hulme: the Kath Locke Centre and the Zion Centre. These venues both have a staff member who creates a monthly printed listing, but did not have this information on the website.
+If you don't have any online calendar at all, then check out our guides on how to set one up using technology your organisation probably already has.
 
-As all their events are in two specific places, we created a calendar for each one in Outlook. One calendar has all the Kath Locke centre events, and the other has the Zion Centre events. As we know that all the events are in one building, there is no need to use the Location field in Outlook: we just set this in PlaceCal when we import the events.
+Here are a few examples of setting up a new calendar in practice.
 
-As it happens, these are large buildings so we decided to use the Location field to store the event room number. After setting this up, this means that all events can now show location and room number with a minimum of effort. The Big Life centres now have one event listing for everything in both centers, as well as seperate ones for each venue.
+### Example 1: Big Life Centres
+
+Big Life Centres manages two venues in Hulme. These are the Kath Locke Centre and the Zion Centre. Before becoming a PlaceCal partner, each venue already had a dedicated staff member who would create a printed events listing every month. However, neither hosted the information on their website. They weren't reaching as many people in the community as they would have liked.
+
+We came along with the aim of helping Big Life Centres to set up a brand new events calendar for both venues that we could import into the PlaceCal system.
+
+First, we created a calendar for each venue using Microsoft Outlook. One calendar contained every Kath Locke centre event, and the second calendar had the Zion Centre events.
+
+Since all the events for each centre were held on the same premises, we didn't necessarily have to use the Location field in Outlook. All we had to do was set the location in PlaceCal at the same time as we imported the events.
+
+In the end, we decided to use the Outlook Location field to store each event's room number because these were large buildings. Every event can now have a location and room number with a minimum of effort on the part of the Admins. The Big Life Centres now have one combined events listing for every event in both centres, and they also maintain separate directories for each venue.
 
 ### Example 2: Hulme Community Garden Centre
 
