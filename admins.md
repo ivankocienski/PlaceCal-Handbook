@@ -24,7 +24,13 @@ Here are a few examples of setting up a new calendar in practice.
 
 ### Example 1: Big Life Centres
 
-Big Life Centres manages two venues in Hulme. These are the Kath Locke Centre and the Zion Centre. Before becoming a PlaceCal partner, each venue already had a dedicated staff member who would create a printed events listing every month. However, neither hosted the information on their website. They weren't reaching as many people in the community as they would have liked.
+Big Life Centres currently manages two health and wellbeing centres in Hulme. These are the Kath Locke Centre and the Zion Centre.
+
+## The problem
+
+Before becoming a PlaceCal partner, each venue already had a dedicated staff member who would create a printed events listing every month. However, neither hosted the information on their website. They weren't reaching as many people in the community as they would have liked.
+
+## How PlaceCal helped
 
 We came along with the aim of helping Big Life Centres to set up a brand new events calendar for both venues that we could import into the PlaceCal system.
 
@@ -32,7 +38,13 @@ First, we created a calendar for each venue using Microsoft Outlook. One calenda
 
 Since all the events for each centre were held on the same premises, we didn't necessarily have to use the Location field in Outlook. All we had to do was set the location in PlaceCal at the same time as we imported the events.
 
-In the end, we decided to use the Outlook Location field to store each event's room number because these were large buildings. Every event can now have a location and room number with a minimum of effort on the part of the Admins. The Big Life Centres now have one combined events listing for every event in both centres, and they also maintain separate directories for each venue.
+In the end, we decided to use the Outlook Location field to store each event's room number, because these were large buildings. Every event can now display an accurate location and room number with minimum effort from the Admins.
+
+## The outcome
+
+The Big Life Centres now have one combined events listing for every event in both centres, and they also maintain separate directories for each venue.
+
+It's much easier for the Admins to list their events and, by ensuring a wide coverage, they are attracting more members of the community to their centres than ever.
 
 ### Example 2: Hulme Community Garden Centre
 
