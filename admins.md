@@ -62,36 +62,8 @@ We imported both of these calendars into PlaceCal, along with the Facebook event
 
 ## The outcome
 
-Hulme Community are now attracting more people to their smaller events, and they haven't had to use anymore new software. It's easier for their staff to organise their groups and communicate the information to their attendees. 
+Hulme Community are now attracting more people to their smaller events, and they haven't had to use anymore new software. It's easier for their staff to organise their groups and communicate the information to their attendees.
 
 ### Example 3: The Old Abbey Taphouse
 
 The Old Abbey Taphouse use Facebook for all their events due to the great sharing features in Facebook, as they mostly host events for other people that already use Facebook. Facebook allows people to create events and then link them to their Facebook Page afterwards, so all the venue has to do is approve the events. PlaceCal reads directly from Facebook so no further configuration is needed.
-
-## How to configure each platform
-
-\[Link to guides\]
-
-## How to create good events listings
-
-\[Link to guides: good summaries and descriptions, thinking about audience\]
-
-## Features
-
-How addresses and places get assigned
-
-Adding an image
-
-Using repeating events efficiently
-
-Tags \(coming soon\)
-
-## Configuring notifications
-
-Why we send them
-
-## Help and support
-
-We will check back every so often
-
-Contact your secretary
