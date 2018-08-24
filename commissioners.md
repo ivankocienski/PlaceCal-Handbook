@@ -7,7 +7,9 @@ _This page is under heavy development -- check back in a few weeks for a full gu
 ---
 ## What is PlaceCal for Commissioners?
 
-PlaceCal isn't just a platform or a piece of software -- it's a holistic social and technical toolkit designed to improve the quality, quantity and accessibility of community data.
+PlaceCal fulfils many functions for large statutory organisations, who are our main target audience.
+
+It's not just a platform or a piece of software. It's a holistic social and technical toolkit designed to improve the quality, quantity and accessibility of community data.
 
 PlaceCal helps to make smarter, more resilient and better connected neighbourhoods that work for everyone: especially people at risk of being left behind by the "digital divide".
 
@@ -21,13 +23,13 @@ Together, we are working to improve the quality, quantity and accessibility of c
 
 ### "Asset mapping"
 
-Who really knows what asset mapping is anyway?
+Commissioners often have problems with [asset mapping] (http://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf) (who really knows what asset mapping is, anyway?) for their community. This means they're unable to clearly identify and communicate the strengths and resources already available in their domain. The information is there, but no one can find it.
 
-PlaceCal fulfils many functions for large statutory organisations, who are our main target audience. It's an asset mapping tool that enables smaller community groups in their care to publish their information.
+PlaceCal was developed as a tool that enables a Commissioner's smaller community groups to publish their information online easily. It's the missing link between existing directories (like Facebook or EventBrite) and the people who need the information.
 
-PlaceCal is not a directory. It works alongside existing directories. PlaceCal is not like other directory or listings services, which require top-down maintenance from a central team. These services will always remain essential tools for large organisations.
+PlaceCal is not a directory in and of itself. Unlike other directory or listings services, which require top-down maintenance from a central team, it works alongside existing directories. PlaceCal aggregates information from separate, unrelated sources to improve information-sharing.
 
-PlaceCal is the missing link between directories and the people who need them. We produced a table to show how PlaceCal differs from other (product-based) solutions as an asset-based approach.
+We produced a table to show how PlaceCal differs from other product-based solutions, as an asset-based approach.
 
 | Product-based (deficit) Approach      | PlaceCal (asset) Approach                                |
 |---------------------------------------|----------------------------------------------------------|
@@ -41,6 +43,7 @@ PlaceCal is the missing link between directories and the people who need them. W
 | Fix people                            | Support people to do what they want                      |
 | Implement products as the solution    | See people as the answer                                 |
 
+Instead of adding more on to the mess of information we have already, PlaceCal links people to what's already available in an organised, efficient way. 
 
 ### Digital & spatial inclusion
 
