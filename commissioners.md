@@ -1,10 +1,11 @@
 # Commissioner Guide
 
-_This page is under heavy development -- check back in a few weeks for a full guide. In the meantime, check out our most recent presentation below._
+_This page is under heavy development -- check back in a few weeks for a full guide._
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSkP_utmU9Mf1kl2OCPtZo_tljybcTznhiifQylwqHJoPuyj4ALg-7N5KCEJp4Tr7V1dx9YZewjGNFE/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ---
+## What is PlaceCal for Commissioners?
 
 PlaceCal isn't just a platform or a piece of software -- it's a holistic social and technical toolkit designed to improve the quality, quantity and accessibility of community data.
 
