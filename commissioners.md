@@ -7,11 +7,11 @@ _This page is under heavy development -- check back in a few weeks for a full gu
 ---
 ## What is PlaceCal for Commissioners?
 
-PlaceCal fulfils many functions for large statutory organisations, who are our main target audience.
+A Commissioner for PlaceCal is someone who funds PlaceCal and want to use it to help people work together in their region. They are often overseeing large statutory organisations, who are our main target audience.
 
-It's not just a platform or a piece of software. It's a holistic social and technical toolkit designed to improve the quality, quantity and accessibility of community data.
+For Commissioners, PlaceCal is not just a platform or a piece of software. It's a holistic social and technical toolkit designed to improve the quality, quantity and accessibility of community data.
 
-PlaceCal helps to make smarter, more resilient and better connected neighbourhoods that work for everyone: especially people at risk of being left behind by the "digital divide".
+PlaceCal helps us to make smarter, more resilient and better connected neighbourhoods that work for everyone. It's targeted especially people at risk of being left behind by the "digital divide".
 
 By tackling digital inclusion with our specific approach, PlaceCal opens the door to healthier and happier communities -- using the existing resources at hand.
 
@@ -23,7 +23,7 @@ Together, we are working to improve the quality, quantity and accessibility of c
 
 ### "Asset mapping"
 
-Commissioners often have problems with [asset mapping] (http://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf) (who really knows what asset mapping is, anyway?) for their community. This means they're unable to clearly identify and communicate the strengths and resources already available in their domain. The information is there, but no one can find it.
+Commissioners often have problems with asset mapping (who really knows what asset mapping is, anyway?) for their community. This means they're unable to clearly identify and communicate the strengths and resources already available in their domain. The information is there, but no one can find it.
 
 PlaceCal was developed as a tool that enables a Commissioner's smaller community groups to publish their information online easily. It's the missing link between existing directories (like Facebook or EventBrite) and the people who need the information.
 
@@ -43,7 +43,7 @@ We produced a table to show how PlaceCal differs from other product-based soluti
 | Fix people                            | Support people to do what they want                      |
 | Implement products as the solution    | See people as the answer                                 |
 
-Instead of adding more on to the mess of information we have already, PlaceCal links people to what's already available in an organised, efficient way. 
+Instead of adding more on to the mess of information we have already, PlaceCal links people to what's already available in an organised, efficient way.
 
 ### Digital & spatial inclusion
 
