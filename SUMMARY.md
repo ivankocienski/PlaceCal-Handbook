@@ -11,8 +11,8 @@
 
 ## How to use PlaceCal
 
-* [Commissioner Handbook](commissioners.md)
-* [Secretary Handbook](secretaries.md)
+* [Commissioner Handbook](/commissioners.md)
+* [Secretary Handbook](/secretaries.md)
   * [Getting Started](/secretaries/getting-started.md)
   * [Initial Workshop](/secretaries/initial-workshop.md)
   * [Initial Onboarding](/secretaries/initial-onboarding.md)
