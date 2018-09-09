@@ -1,0 +1,9 @@
+# What does PlaceCal do
+
+PlaceCal is a co-constituted combination of software and training that works together to support a neighbourhood-level community calendar aimed directly at neighbourhood groups and the institutions who want to work better with them.
+
+The PlaceCal software is the technical and infrastructure element of this. PlaceCal imports and connects up information from signed-up neighbourhood institutions and organisations by building on their existing calendar and IT infrastructure. This direct engagement enables the sharing of existing information, and also for additional information about the organisations to be gathered and published. Together this process reduces the workload of keeping event information across multiple partners up to date and reliable.
+
+The PlaceCal training is an extensive education package we deliver for community groups, regional providers, and community organisations. Our training is aimed at the health and social care, housing and volunteer institutions who are already invested in gathering information about service and events in their area. Generally their aims are to connect the local community in order to improve health and wellbeing outcomes. Where previously they have lacked a way of creating, storing and sharing this information collaboratively, our training aims to give these workers tools to support this collaboration using existing resources.
+
+These local workers and residents take on key roles, acting as ‘secretary’, one of our seven “core capabilities”. These capabilities are derived from our research and based on the UN capability model, and are discussed more fully later in the document. Secretaries are active curators who ensure that the community is in charge of its local information. This information is then trustworthy and can be used by local health and community organisations.
