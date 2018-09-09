@@ -1,5 +1,7 @@
 # Who is using PlaceCal?
 
+Here are some example of the types of people using PlaceCal in their role already. 
+
 ## Alasdair, GP
 
 Alasdair works at Moss Side Health Centre in Manchester, UK. Alasdair sees patients every day who have problems with their breathing or exercise, or who are simply lonely. He knows that some patients take more than 40 ambulances a year to hospital just so they get to see another human. This places an immense stress on the health services, and doesn't really fix the problem.
