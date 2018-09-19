@@ -2,7 +2,7 @@
 
 ## What calendar software should I use?
 
-PlaceCal is designed to work with the tools you already use for your events. Usually this is part of your web-based office suite, such as Office 365 or Google's G Suite. We've consciously designed it this way to need as little extra training as possible on your end. You can also stick with your existing accounts and settings -- if you already use Outlook 365, GMail or G Suite, your calendar application can integrate with other apps.
+PlaceCal is designed to work with the tools you already use for your events. Usually this is part of your web-based office suite, such as Office 365 or Google's G Suite. We've consciously designed it this way to need as little extra training as possible on your end. You can also stick with your existing accounts and settings -- if you already use Outlook 365, GMail or G Suite, your calendar application can integrate with other applications.
 
 In most cases if you don't currently use anything or have a pen and paper solution, we recommend using Google. You can create a simple GMail account for free that has all the functionality you need. We think Google Calendar is the simplest to use, and it also has the best sharing and collaboration options to make it easy to work with other people.
 
