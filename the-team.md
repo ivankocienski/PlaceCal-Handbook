@@ -13,3 +13,4 @@ We're working towards co-operative status and the creation of a PlaceCal foundat
 * Mark Dormand <mark@studiosquid.co.uk>: Creative consultant & brand designer.
 * April Manderson <april@placecal.org>: General secretary.
 * Gabriella Grant <gabriella@placecal.org>: Website developer.
+* Catherine Heath <catherine@awaywithwords.co>: Documentarian. 
