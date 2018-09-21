@@ -1,6 +1,6 @@
 # Co-creation: developing the PlaceCal prototype
 
-PlaceCal has already been researched thoroughly so we know that there's a need for it in Greater Manchester. 
+PlaceCal has already been researched thoroughly so we know that there's a need for it in Greater Manchester.
 
 Read on to find out more about the PlaceCal prototype.
 
@@ -26,14 +26,14 @@ Even worse, many small local organisations and venues are *not at all able* to p
 
 ## Budget-friendly
 
-Money for resources is a huge barrier. Under-resourced community organisations don’t have the budget or time to effectively commission and maintain websites.
+Money for resources is a huge barrier for community organisations. Under-resourced and extremely time-strapped, most don’t have the budget or time to effectively commission and maintain websites.
 
 They're also not yet supported to work locally with others who can. That means it’s extremely hard for standard, single-approach interventions to become established with many organisations duplicating efforts.
 
 We needed a cost-effective way for these groups to work together in a timely and efficient manner.
 
 
-# Helps the NHS
+## Helping the NHS
 
 We found that many older people are approaching the health services out of loneliness. GPs want to connect these people with local events but lack the resources to do so.
 

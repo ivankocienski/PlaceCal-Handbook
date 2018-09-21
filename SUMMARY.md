@@ -15,6 +15,7 @@
   * [Benefits](/commissioners/benefits.md)
   * [Digital inclusion](/commissioners/digital-inclusion.md)
   * [Prototype](/commissioners/prototype.md)
+  * [Getting started](/commissioners/getting-started.md)
 * [Secretary Handbook](/secretaries.md)
   * [Getting Started](/secretaries/getting-started.md)
   * [Initial Workshop](/secretaries/initial-workshop.md)
