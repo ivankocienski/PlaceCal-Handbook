@@ -1,6 +1,6 @@
 # Key benefits of PlaceCal
 
-PlaceCal has a number of benefits for commissioners. 
+PlaceCal has a number of benefits for commissioners.
 
 ## "Asset mapping"
 
