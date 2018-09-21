@@ -12,6 +12,9 @@
 ## How to use PlaceCal
 
 * [Commissioner Handbook](/commissioners.md)
+  * [Benefits](/commissioners/benefits.md)
+  * [Digital inclusion](/commissioners/digital-inclusion.md)
+  * [Pilot](/commissioners/pilot.md)
 * [Secretary Handbook](/secretaries.md)
   * [Getting Started](/secretaries/getting-started.md)
   * [Initial Workshop](/secretaries/initial-workshop.md)
