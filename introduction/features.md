@@ -45,4 +45,6 @@ These groups are already invested in gathering information about local services 
 
 Our training tackles this problem by giving key workers the tools they need to collaborate, which capitalises on existing resources.
 
-These local workers and residents take on key roles, acting as a ‘secretary’. Secretaries are the active curators who ensure that the community is in charge of its local information. They know that the information they produce is trustworthy, which can then be recommended back to local health and community organisations.
+These local workers and residents take on key roles, some of them acting as a ‘secretary’. Secretaries are the active curators who ensure that the community is in charge of its local information. They ensure that the information produced is trustworthy, which can then be recommended back to local health and community organisations.
+
+Find out more about [who uses PlaceCal](/introduction/who-is-using-placecal.md).
