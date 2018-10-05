@@ -1,15 +1,43 @@
 # Digital & spatial inclusion
 
-Our primary intended audience for PlaceCal are communities of place. These are neighbourhood partnerships representing anything from a single tower block to a small town. These groups work because they have a ‘real world’ relationship of geographical proximity, typically up to around 6,000 people.
+One of PlaceCals aims is to connect communities through the use of digital technologies. However, many people are currently excluded from the use of such technologies.
 
-The core goal of PlaceCal is to create well connected neighbourhoods that work better for older people, reduce social isolation, and increase active citizenship. Measuring the success of our interventions is not a simple task and has required an approach that can consider the entirety of the relationships and information in an area.
+## What is digital exclusion?
+
+Digital exclusion is when people do not have access to the internet and digital technologies. The government defines it as:
+
+> Digital inclusion, or rather, reducing digital exclusion, is about making sure that people have the capability to use the internet to do things that benefit them day to day - whether they be individuals, SMEs or VCSE organisations. ([Government Digital Inclusion Strategy, 2014](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy))
+
+Digital inclusion is about:
+
+* Making sure people can access the technologies they need or want
+* People having the right connectivity infrastructure such as access to the internet
+* People having materials and resources online that actually interest them
+
+## Effects of digital exclusion
+
+Unfortunately, the reality is that many people are suffering from digital exclusion – especially elderly people and those on low incomes.
+
+Even 40% of working age people struggle with basic tasks like deleting emails, which is even worse for older people. 4.2 million people in the UK aged 65+ have never used the internet.
+
+Digital exclusion of people and organisations has led directly to **social exclusion**. This has in turn made it very hard for organisations to cope with even day-to-day information sharing needs.
+
+## How PlaceCal tackles the problem
 
 PlaceCal is a digital inclusion tool that raises the level of technical capability in a neighbourhood. It's a tool to aid the creation and support of local resident-led partnerships, by empowering people with simple tools they can use to work together better.
 
 Residents in local communities can't find out what’s going on if they're not already socially connected. This causes the socially isolated to become more entrenched.
 
-Digital exclusion of people and organisations has led directly to social exclusion and made it very hard for organisations to cope with day-to-day information sharing needs.
+PlaceCal does not require its users to be able to use the internet as other individuals can socially prescribe to them. If individuals want to use our website, its easily accessible in ways such as displaying in a large font.
 
-40% of working age people struggle with basic tasks like deleting emails, which is even worse for older people. 4.2 million people in the UK aged 65+ have never used the internet. PlaceCal does not require its users to be able to use the internet as other individuals can socially prescribe to them.
+PlaceCal is a resource that is created directly for older people, who actively use the website on a regular basis. It's user-friendly and accessible so users can get the most out of the platform.
 
-However, PlaceCal is a resource that is created directly for older people, who actively use the website on a regular basis. It's user-friendly and accessible so users can get the most out of the platform.
+## From digital to spatial
+
+PlaceCal does not exist in a digital vacuum. By being rooted in places, this gives PlaceCal staying power and motivates people to actually use it.
+
+Our primary intended audiences for PlaceCal are communities of place. These are neighbourhood partnerships representing anything from a single tower block to a small town. These groups work because they have a ‘real world’ relationship of geographical proximity, typically up to around 6,000 people.
+
+We are currently live in Hulme and Moss Side, and expanding to Moston. Each area has its own website with a calendar of events, updated regularly with multiple listings.
+
+Find out more about how to [get started with PlaceCal](/commissioners/getting-started.md). 
