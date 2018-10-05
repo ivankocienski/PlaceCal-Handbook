@@ -7,7 +7,8 @@
 * [Philosophy](/introduction/philosophy.md)
 * [Why use PlaceCal?](/introduction/benefits.md)
 * [What does it do?](/introduction/features.md)
-* [Who is using PlaceCal?](introduction/who-is-using-placecal.md)
+* [Who is using PlaceCal?](/introduction/who-is-using-placecal.md)
+* [Our principles](/introduction/our-principles.md)
 
 ## How to use PlaceCal
 

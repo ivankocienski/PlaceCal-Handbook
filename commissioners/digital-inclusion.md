@@ -1,6 +1,6 @@
 # Digital & spatial inclusion
 
-One of PlaceCals aims is to connect communities through the use of digital technologies. However, many people are currently excluded from the use of such technologies.
+One of PlaceCal's primary aims is to connect communities through the use of digital technologies. However, many people are currently excluded from the use of such technologies.
 
 ## What is digital exclusion?
 
@@ -24,13 +24,13 @@ Digital exclusion of people and organisations has led directly to **social exclu
 
 ## How PlaceCal tackles the problem
 
-PlaceCal is a digital inclusion tool that raises the level of technical capability in a neighbourhood. It's a tool to aid the creation and support of local resident-led partnerships, by empowering people with simple tools they can use to work together better.
+PlaceCal is a digital inclusion tool that raises the level of technical capability in a neighbourhood. It helps to create and support local resident-led partnerships by empowering people to work together better.
 
-Residents in local communities can't find out what’s going on if they're not already socially connected. This causes the socially isolated to become more entrenched.
+Residents in local communities can't find out what’s going on if they're not socially connected to start. This causes people who are already socially isolated to become even more entrenched and hard to reach. It's not possible for such people to just "go online".
 
-PlaceCal does not require its users to be able to use the internet as other individuals can socially prescribe to them. If individuals want to use our website, its easily accessible in ways such as displaying in a large font.
+The benefit of PlaceCal is not requiring its users to be able to use the internet, since other individuals (such as GPs) can [socially prescribe](/introduction/who-is-using-placecal.md) to them. On the other hand, if individuals want to use our website, it's easily accessible in multiple ways, such as automatically displaying in a large font.
 
-PlaceCal is a resource that is created directly for older people, who actively use the website on a regular basis. It's user-friendly and accessible so users can get the most out of the platform.
+PlaceCal is a resource that has been created directly for older people who could actively use the website on a regular basis. It's user-friendly and accessible so users can get the most out of the platform.
 
 ## From digital to spatial
 
@@ -40,4 +40,4 @@ Our primary intended audiences for PlaceCal are communities of place. These are 
 
 We are currently live in Hulme and Moss Side, and expanding to Moston. Each area has its own website with a calendar of events, updated regularly with multiple listings.
 
-Find out more about how to [get started with PlaceCal](/commissioners/getting-started.md). 
+Find out more about how to [get started with PlaceCal](/commissioners/getting-started.md).
