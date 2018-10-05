@@ -2,11 +2,11 @@
 
 We define PlaceCal as:
 
-> A co-constituted combination of software and training that works together to support a neighbourhood-level community calendar aimed directly at neighbourhood groups and the institutions who want to work better with them.
+> A co-constituted combination of software and training. These two elements work together to support a neighbourhood-level community calendar. It's aimed directly at neighbourhood groups and the institutions who want to work better with them.
 
 ![PlaceCal program diagram](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/what-is-placecal-community.png)
 
-It's made up of a number of different elements, which we'll go into now.
+The PlaceCal platform and program is made up of a number of different elements, which we'll go into now.
 
 ## The technical side of PlaceCal
 
@@ -35,6 +35,14 @@ Find out more in the [PlaceCal glossary](/glossary.md).
 
 ## PlaceCal training program
 
-The PlaceCal training is an extensive education package we deliver for community groups, regional providers, and community organisations. Our training is aimed at the health and social care, housing and volunteer institutions who are already invested in gathering information about service and events in their area. Generally their aims are to connect the local community in order to improve health and wellbeing outcomes. Where previously they have lacked a way of creating, storing and sharing this information collaboratively, our training aims to give these workers tools to support this collaboration using existing resources.
+![PlaceCal software map](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/what-is-placecal-software.png)
 
-These local workers and residents take on key roles, acting as ‘secretary’, one of our seven “core capabilities”. These capabilities are derived from our research and based on the UN capability model, and are discussed more fully later in the document. Secretaries are active curators who ensure that the community is in charge of its local information. This information is then trustworthy and can be used by local health and community organisations.
+To ensure people are getting the most out of the software and have the right skills, we have also developed a custom PlaceCal training program based on extensive field research.  
+
+The PlaceCal training program is an in-depth education package delivered as a standard part of our service. Our targets are the community groups, regional providers, and community organisations involved in PlaceCal.
+
+These groups are already invested in gathering information about local services and events in their area, but currently struggling to manage this process efficiently. They lack a coherent way of creating, storing and sharing their information collaboratively.
+
+Our training tackles this problem by giving key workers the tools they need to collaborate, which capitalises on existing resources.
+
+These local workers and residents take on key roles, acting as a ‘secretary’. Secretaries are the active curators who ensure that the community is in charge of its local information. They know that the information they produce is trustworthy, which can then be recommended back to local health and community organisations.
