@@ -12,6 +12,8 @@ The PlaceCal platform and program is made up of a number of different elements, 
 
 The PlaceCal software is the technical stack and infrastructure of our core program. PlaceCal imports and connects information from neighbourhood institutions and organisations who have signed up to be part of our program. As long as partners input their data regularly, PlaceCal will import, aggregate and publish on to the [PlaceCal.org](placecal.org) website automatically.
 
+![PlaceCal technological infrastructure](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/placecal-technological-infrastructure.png)
+
 PlaceCal brings together existing calendar tools and IT infrastructure – which are tools that organisations are already using to organise themselves. This process drastically reduces the current manual workload of keeping event information updated and reliable, as well as synced across multiple partners.
 
 ## What does PlaceCal look like?
