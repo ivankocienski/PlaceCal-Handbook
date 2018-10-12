@@ -7,6 +7,18 @@ Our impact measurement framework is therefore based on the capability of people 
 
 ## Table
 
+| Product-based (deficit) Approach      | PlaceCal (asset) Approach                                |
+|---------------------------------------|----------------------------------------------------------|
+| Start with technological lacks        | Start with existing facilities, staff and skills         |
+| Respond to problems                   | Identify opportunities and strengths                     |
+| Provide services                      | Invest in training and support                           |
+| Emphasise role of technology/software | Emphasise role of community knowledge                    |
+| Focus on individuals                  | Focus on neighbourhoods                                  |
+| See people and clients and consumers  | Enable people to be co-producers creating what they need |
+| Treat people as passive and "done-to" | Help people decide what's important to them              |
+| Fix people                            | Support people to do what they want                      |
+| Implement products as the solution    | See people as the answer                                 |
+
 ### Role: Citizen
 
 **Description:** Residents using PlaceCal. Typically over 50s who have multiple risk factors for social isolation, and very little technical skills. It’s important to note that the other core capabilities are citizens as well: for example, most managers who run groups for over 50s are also in this category.

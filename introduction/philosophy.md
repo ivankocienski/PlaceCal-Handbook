@@ -3,7 +3,6 @@
 PlaceCal is a community events calendar designed to help people find out everything that's happening near them, all in one place.
 
 ![PlaceCal definition](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/placecal-definition.png)
-_Image caption: PlaceCal definition_
 
 ## Founded on research
 
@@ -18,7 +17,6 @@ This meant there was a strong need for trusted, up-to-date and comprehensive sou
 PlaceCal connects community residents and service providers with the small everyday events. These events are usually quite hard to discover, but can be lifesaving for socially isolated older people. They could be coffee mornings, sewing groups and computer classes.
 
 ![PlaceCal promotes events](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/placecal-explanation.png)
-_Image caption: PlaceCal promotes events_
 
 Many GPs want to socially prescribe instead of prescribing drugs, but are currently struggling with a lack of quality information. Find out more about our [social prescribers](/introduction/who-is-using-placecal.md).
 
