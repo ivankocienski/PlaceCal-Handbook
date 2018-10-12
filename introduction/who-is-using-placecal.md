@@ -59,7 +59,7 @@ _Image caption: Alasdair using the PlaceCal calendar in his practice_
 
 Patsy is a Neighbourhood Health Worker working for Buzz, Manchester's Health & Wellbeing service. Her role is to work people in Manchester communities to improve their health and wellbeing. Patsy is an example of someone who helps others to promote their events using PlaceCal.
 
-![Buzz logo](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/buzz-logo.png)
+![Buzz – Manchester Health & Wellbeing Service](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/buzz-logo.png)
 
 ### Patsy's problem
 

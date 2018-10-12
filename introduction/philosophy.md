@@ -35,7 +35,6 @@ PlaceCal's vision is for information infrastructure to be controlled by communit
 What does PlaceCal look like in reality?
 
 ![PlaceCal community](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/what-is-placecal-community.png)
-_Image caption: PlaceCal is a community_
 
 PlaceCal delivers a community development program that connects people and organisations with culture, health and social housing institutions in neighbourhood communities. It tackles social isolation and promotes wellbeing.
 
@@ -50,6 +49,5 @@ All this requires very little additional effort from organisations – beyond t
 We directly engage with our target audience, older people, by easily providing legible, printed listings and enabling other accessible formats and translations.
 
 ![PlaceCal on a smartphone](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/placecal-displaying-smartphone.png)
-_Image caption: PlaceCal can be browsed easily on a smartphone_
 
 Find out more about PlaceCal's approach to [digital inclusion](/commissioners/digital-inclusion.md).
