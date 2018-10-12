@@ -2,6 +2,9 @@
 
 PlaceCal is a community events calendar designed to help people find out everything that's happening near them, all in one place.
 
+![PlaceCal definition](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/placecal-definition.png)
+_Image caption: PlaceCal definition_
+
 ## Founded on research
 
 The PlaceCal pilot emerged as part of a large scale co-research project. It was responding to the need for older people, community organisations and institutional partners to work together more effectively.
@@ -13,6 +16,9 @@ This meant there was a strong need for trusted, up-to-date and comprehensive sou
 ## Event discovery
 
 PlaceCal connects community residents and service providers with the small everyday events. These events are usually quite hard to discover, but can be lifesaving for socially isolated older people. They could be coffee mornings, sewing groups and computer classes.
+
+![PlaceCal promotes events](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/placecal-explanation.png)
+_Image caption: PlaceCal promotes events_
 
 Many GPs want to socially prescribe instead of prescribing drugs, but are currently struggling with a lack of quality information. Find out more about our [social prescribers](/introduction/who-is-using-placecal.md).
 
@@ -28,6 +34,9 @@ PlaceCal's vision is for information infrastructure to be controlled by communit
 
 What does PlaceCal look like in reality?
 
+![PlaceCal community](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/what-is-placecal-community.png)
+_Image caption: PlaceCal is a community_
+
 PlaceCal delivers a community development program that connects people and organisations with culture, health and social housing institutions in neighbourhood communities. It tackles social isolation and promotes wellbeing.
 
 It does this by enabling community partnerships to create and share joined-up information about services and events in their area. The program is an innovative blend of community partnership building, education and IT infrastructure.
@@ -39,5 +48,8 @@ By working in this way, we support organisations (who otherwise wouldn't have a 
 All this requires very little additional effort from organisations – beyond the initial setup. The costs are minimal compared to every community organisation providing their own IT resources.
 
 We directly engage with our target audience, older people, by easily providing legible, printed listings and enabling other accessible formats and translations.
+
+![PlaceCal on a smartphone](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/placecal-displaying-smartphone.png)
+_Image caption: PlaceCal can be browsed easily on a smartphone_
 
 Find out more about PlaceCal's approach to [digital inclusion](/commissioners/digital-inclusion.md).
