@@ -14,7 +14,7 @@ This meant there was a strong need for trusted, up-to-date and comprehensive sou
 
 PlaceCal connects community residents and service providers with the small everyday events. These events are usually quite hard to discover, but can be lifesaving for socially isolated older people. They could be coffee mornings, sewing groups and computer classes.
 
-Many GPs want to socially prescribe instead of prescribing drugs, but are currently struggling with a lack of quality information. Find out more about our [social prescribers](/introduction/who-is-using-placecal.md)
+Many GPs want to socially prescribe instead of prescribing drugs, but are currently struggling with a lack of quality information. Find out more about our [social prescribers](/introduction/who-is-using-placecal.md).
 
 ## Place-based
 
@@ -40,4 +40,4 @@ All this requires very little additional effort from organisations – beyond t
 
 We directly engage with our target audience, older people, by easily providing legible, printed listings and enabling other accessible formats and translations.
 
-Find out more about PlaceCal's approach to [digital inclusion](/commissioners/digital-inclusion.md)
+Find out more about PlaceCal's approach to [digital inclusion](/commissioners/digital-inclusion.md).

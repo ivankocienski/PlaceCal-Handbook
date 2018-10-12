@@ -1,22 +1,53 @@
 # Who is using PlaceCal?
 
-Here are some example of the types of people using PlaceCal in their role already.
+PlaceCal is used by many different people in the community, but there are some who particularly benefit from using the platform.
 
-## Alasdair, GP
+Here are two key examples of people benefiting from using PlaceCal in their role already.
 
-Alasdair works at Moss Side Health Centre in Manchester, UK. He's an example of an end user for PlaceCal.
+## User 1: Alasdair, GP in Moss Side
 
-Alasdair is a GP who sees patients every day. These patients have problems with their breathing or exercise, or are simply lonely. He knows that some patients take more than 40 ambulances a year to hospital just so they get to see another human. This places an immense stress on the health services, and doesn't really fix the problem.
+Alasdair is a GP who sees patients every day. He works at Moss Side Health Centre and we would consider him an end user for PlaceCal.
 
-Alasdair wants to "socially prescribe" -- to be able to refer patients to a suitable local group where they can do exercise or get some support. However, it's very difficult for him to get information about what's on near where people live. Lots of health workers maintain spreadsheets or email out PDF documents periodically, but these aren't really joined up or easy to use, especially in the 7 minute average GP's appointment.
+### Alasdair's problem
 
-Now he has access to PlaceCal, Alasdair is able to  quickly get a daily listing of everything going on in an area, which he can keep up on one of his computer screens in his appointments. This means it only takes about 30 seconds for him to work with a patient to help them find one of the dozens of events on every day.
+Many of Alasdair's patients have problems with their breathing, aren't able to exercise, or are lonely.
 
-As a result, he's able to socially connect his patients, enable people to use less medication, and get people moving again who have struggled to find suitable exercise groups to go to.
+The lonely patients are sometimes the most difficult to help. Some of them call for more than 40 ambulances a year to take them to hospital – just so that they can see another human being.
 
-_Find out more about what PlaceCal offers social prescribers like Alasdair_
+This type of behaviour places an immense strain on the health service, and sadly it doesn't really fix the problem.
 
-## Patsy, Neighbourhood Health Worker
+There is a solution – but Alasdair is currently lacking the infrastructure for it.
+
+### Social prescription
+
+Alasdair wants to ["socially prescribe"](https://www.england.nhs.uk/personalised-health-and-care/social-prescribing/). This means he would refer people to services in their community instead of only offering medical solutions. The services he could refer them to might be a local group where they can do gentle exercise, or find some social support.
+
+1 in 5 GPs currently socially prescribe and 40% would refer if they had more information about what's available. ([July 2017, GP Online Survey](https://www.england.nhs.uk/personalised-health-and-care/social-prescribing/))
+
+It's currently very difficult for Alasdair to find out more information about what's happening in Moss Side. The issue is not a lack of events going on, but the fact that there's no centralised place where he can browse events. Many community groups don't even have a website.
+
+Health workers currently have the job of maintaining sprawling spreadsheets or emailing out PDF documents periodically. Unfortunately, these documents have several drawbacks:
+
+* They get out of date very quickly
+* Many people are duplicating work or missing out key events
+* They aren't easy to use in the 7 minute average GP's appointment
+
+### How PlaceCal helps
+
+PlaceCal is the perfect alternative to these cumbersome spreadsheets and PDFs. Now Alasdair has access to PlaceCal, he can  quickly pull up a daily listing of everything going on in an area. PlaceCal has hundreds of events listed at any one time.
+
+![Example of PlaceCal calendar](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/placecal-sample-events-page.png)
+
+The calendar can be displayed constantly on one of his computer screens during his appointments. This means it now only takes about 30 seconds for him to work with a patient to help them find one of the dozens of events that take place every day.
+
+As a result, Alasdair can now:
+* Socially connect his patients to local community events
+* Enable people to find an alternative to taking more medication
+* Get people moving again after they may have been sedentary for some time
+
+[_Find out more_](/introduction/benefits.md) _about what PlaceCal offers social prescribers like Alasdair_
+
+## User 2: Patsy, Neighbourhood Health Worker in Manchester
 
 Patsy is an example of someone who helps others promote their events using PlaceCal.
 
