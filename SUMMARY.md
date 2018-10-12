@@ -9,6 +9,7 @@
 * [What does it do?](/introduction/features.md)
 * [Who is using PlaceCal?](/introduction/who-is-using-placecal.md)
 * [Our principles](/introduction/our-principles.md)
+* [Why PlaceCal was founded](/introduction/why-placecal-is-needed.md)
 
 ## How to use PlaceCal
 
@@ -17,6 +18,7 @@
   * [Digital inclusion](/commissioners/digital-inclusion.md)
   * [Prototype](/commissioners/prototype.md)
   * [Getting started](/commissioners/getting-started.md)
+  * [PlaceCal capability model](/commissioners/placecal-capability-model.md)
 * [Secretary Handbook](/secretaries.md)
   * [Getting Started](/secretaries/getting-started.md)
   * [Initial Workshop](/secretaries/initial-workshop.md)

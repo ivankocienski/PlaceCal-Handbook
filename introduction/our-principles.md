@@ -6,9 +6,23 @@ Education and partnership working are at the core of everything we do. PlaceCal 
 
 This holistic approach to community technology creates a low social capital social network for real world interaction: a radically decentralised, transparent initiative managed directly by it's citizens. This creates both spatial and digital inclusion: fairer and more inclusive neighbourhoods both on and offline.
 
+## Communities of place
+
+Our primary intended audience for PlaceCal are communities of place. These are neighbourhood partnerships representing anything from a single tower block to a small town. These groups work because they have a ‘real world’ relationship of geographical proximity, typically up to around 6,000 people.
+
+Neighbourhood partnerships form the interface between residents and health, housing and local authority providers who then have a coordinated way to work with people locally. What makes PlaceCal unique is that it combines knowledge in an area across many different siloed stakeholders and across geographic scales.
+
+## Open source
+
 The PlaceCal source code is free and open source: all our development is public and transparent. All our training materials and expertise are available under a Creative Commons license, allowing you to make your own versions for your needs. Our technical support enables communities to own and manage their own information.
 
 Having all this information in one place means that it's the perfect information source for social prescribers like doctors, nurses, library assistants, and social care workers to find good things to do for their patients.
+
+## Digital Inclusion
+
+The core goal of PlaceCal is to create well connected neighbourhoods that work better for older people, reduce social isolation, and increase active citizenship. Measuring the success of our interventions is not a simple task and has required an approach that can consider the entirety of the relationships and information in an area.
+
+PlaceCal is not about teaching people to use the internet as it is, or teaching "digital skills". It's about redesigning the internet with a new model that appeals to humans from all backgrounds with a wide range of interests and needs. 
 
 ## Curated by humans
 
@@ -19,13 +33,3 @@ Each neighbourhood or interest group has it's own Secretary, who is the human fa
 PlaceCal works with your existing technology and staff time, helping you set something up if needed. This means that it hooks into your existing event management software, updating itself automatically when you're set up.
 
 Most people use Google Calendar, Outlook 365, or Facebook. We can also work with your custom CMS or event API.
-
-## Why we made it
-
-PlaceCal started as part of a research project at MMU into making cities more friendly for the over 50s and reduce social isolation. This research looks at communities, places, facilities and people in four areas of Greater Manchester.
-
-One of the first things we found was that people thought there was nothing to do in their areas. We went out to see if this was true, and after talking to dozens of organisations and community members, we found there was a huge variety of activities to take part in.
-
-It became clear to us that the problem is one of communication. Mainstream social media sites like Facebook and Twitter are aimed at a specific type of event: large, well promoted, one-off events, generally for younger people. We realised we needed a way for small organisations to promote the more day-to-day events for less socially mobile and older people -- it was here that the idea for PlaceCal was born.
-
-We started PlaceCal to enable organisations of all sizes with social goals to be able to promote their events with the minimum possible fuss, using their existing technology. We also started it to improve community technology infrastructure over all, and create a solution where the social, technical, and training aspects are all intertwined. We hope PlaceCal becomes one of many apps that use this approach.
