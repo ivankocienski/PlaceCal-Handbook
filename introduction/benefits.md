@@ -32,7 +32,7 @@ The pilot has had an enormously positive response from both residents and instit
 
 The bigger PlaceCal grows, the better our service gets.
 
-## 4. It improves communities
+## 5. It improves communities
 
 PlaceCal delivers a community development program that connects people and organisations with culture, health and social housing institutions in neighbourhood communities.
 
