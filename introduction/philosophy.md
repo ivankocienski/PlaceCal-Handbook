@@ -8,19 +8,33 @@ PlaceCal is a community events calendar designed to help people find out everyth
 
 The PlaceCal pilot emerged as part of a large scale co-research project. It was responding to the need for older people, community organisations and institutional partners to work together more effectively.
 
-This project was a collaboration between Dr Kim Foale (Geeks for Social Change), Prof. Stefan White (PHASE@MMU) and the Manchester Age Friendly Network.
+This project was a collaboration between Dr Kim Foale (Geeks for Social Change), Prof. Stefan White (PHASE@MMU) and the Manchester Age Friendly Network (MAFN).
 
 **Phase one**
 
 The research first established that many older residents could find nothing to do in their immediate area.
 
-Using word-of-mouth and literature searches over the following months, we discovered dozens of events and activities on every day. The focus therefore became not the lack of events, but a lack of high quality, up-to-date, accessible and complete community data.
+Using word-of-mouth and literature searches over the following months, we discovered dozens of events and activities on every day. That clarified the problem as not the lack of events, but a lack of high quality, up-to-date, accessible and complete community data about events.
 
-Initially we distributed this information manually using a Google Calendar but found this quickly became unmanageable. All events had to be added by the small and time-limited MAFN team, information given to us was incomplete, contradictory or out of date, and the user interface of Google Calendar itself wouldn’t allow for better filtering and sorting with high numbers of events.
+Our solution was to share the information with interested parties. Initially we distributed it manually using a Google Calendar.
+
+This method quickly became unmanageable as every event had to be added to the calendar by the small and time-limited MAFN team. Information given to us was incomplete, contradictory or out of date, and Google Calendar couldn’t allow filtering and sorting for high numbers of events.
 
 **Phase two**
 
-We realised we needed a dedicated service to publish and manage this information, which was dubbed PlaceCal. We started working with Kim Foale (Geeks for Social Change) who had previously worked on the initial development of Street Support Network, an information service for homelessness run by Viv Slack. Through this partnership we gained funding from CityVerve to create a pilot addressing the issues of social isolation and loneliness in one of the MAFN areas, Hulme and Moss Side.
+We realised we needed a dedicated service to publish and manage this information, which was called PlaceCal.
+
+The project started between MAFN and Kim Foale of (Geeks for Social Change)[http://gfsc.studio/]. Kim had previously worked on the initial development of [Street Support Network](https://streetsupport.net/), an information service for homelessness run by Viv Slack.
+
+Through this partnership, we gained funding from [CityVerve](https://cityverve.org.uk/) to launch a PlaceCal pilot.
+
+## Social isolation and loneliness
+
+The PlaceCal pilot addressed the issues of social isolation and loneliness in one of the MAFN areas, Hulme and Moss Side.
+
+Research shows that loneliness and social isolation can damage our health. Lacking social connection puts you at risk for early death just like smoking 15 cigarettes a day, being obese, or physically inactive. Loneliness increases the likelihood of mortality by 26%. [Campaign to End Loneliness](https://www.campaigntoendloneliness.org/loneliness-research/)
+
+This makes PlaceCal a crucial solution for improving community health outcomes through tackling the problem asset mapping and enabling social prescribing.
 
 ## Event discovery
 
