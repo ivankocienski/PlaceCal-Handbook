@@ -24,7 +24,7 @@ This method quickly became unmanageable as every event had to be added to the ca
 
 We realised we needed a dedicated service to publish and manage this information, which was called PlaceCal.
 
-The project started between MAFN and Kim Foale of (Geeks for Social Change)[http://gfsc.studio/]. Kim had previously worked on the initial development of [Street Support Network](https://streetsupport.net/), an information service for homelessness run by Viv Slack.
+The project started between MAFN and Kim Foale of [Geeks for Social Change](http://gfsc.studio/). Kim had previously worked on the initial development of [Street Support Network](https://streetsupport.net/), an information service for homelessness run by Viv Slack.
 
 Through this partnership, we gained funding from [CityVerve](https://cityverve.org.uk/) to launch a PlaceCal pilot.
 
