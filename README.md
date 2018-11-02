@@ -10,7 +10,7 @@ Commissioners are the people who fund the PlaceCal platform. This can either be 
 
 This handbook is for anyone considering commissioning or partnering with PlaceCal in their area. We look at how PlaceCal can fulfil your asset-mapping remit, and enable a transformational change in the relationships between organisations and institutions in your region.
 
-[Read the Commissioner Handbook](/commissioners.md)
+[Read the Commissioner Handbook](commissioners.md)
 
 ## Secretaries
 
@@ -18,7 +18,7 @@ Secretaries are the people working in an area to bring organisations and people 
 
 Our Secretary Handbook takes you through the stages of delivering PlaceCal from inception to maintenance.
 
-[Read the Secretary Handbook](/secretaries.md)
+[Read the Secretary Handbook](secretaries.md)
 
 ## Managers
 
@@ -26,16 +26,16 @@ Managers are the people who run community organisations on all scales from large
 
 This guide outlines the benefits for your organisation and outlines what you'll need to join the partnership.
 
-[Read the Manager Handbook](/managers.md)
+[Read the Manager Handbook](managers.md)
 
 ## Admins
 
 Admins are the organisational workers who add and update their information on PlaceCal. They will work with a Secretary to create a listing of their organisation on PlaceCal, and add their event feed to the centralised daily events listings.
 
-[Read the Admin Handbook](/admins.md)
+[Read the Admin Handbook](admins.md)
 
 ## Developers
 
 Developers are anyone interested in working on the PlaceCal platform, adapting it for their own area, or who wants to work with PlaceCal's API feeds.
 
-[Read the Developer Handbook](/developers.md)
+[Read the Developer Handbook](developers.md)
