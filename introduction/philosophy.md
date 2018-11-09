@@ -14,9 +14,11 @@ This project was a collaboration between Dr Kim Foale (Geeks for Social Change),
 
 The research first established that many older residents could find nothing to do in their immediate area.
 
-Using word-of-mouth and literature searches over the following months, we discovered dozens of events and activities on every day. That clarified the problem as not the lack of events, but a lack of high quality, up-to-date, accessible and complete community data about events.
+Using word-of-mouth and literature searches over the following months, we discovered **literally dozens of events and activities** on every day. That clarified the problem as not the lack of events, but a lack of high quality, up-to-date, accessible and complete community data about events.
 
 Our solution was to share the information with interested parties. Initially we distributed it manually using a Google Calendar.
+
+![Original Google calendar](https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/original-calendar-screenshot.png)
 
 This method quickly became unmanageable as every event had to be added to the calendar by the small and time-limited MAFN team. Information given to us was incomplete, contradictory or out of date, and Google Calendar couldn’t allow filtering and sorting for high numbers of events.
 
@@ -32,7 +34,7 @@ Through this partnership, we gained funding from [CityVerve](https://cityverve.o
 
 The PlaceCal pilot addressed the issues of social isolation and loneliness in one of the MAFN areas, Hulme and Moss Side.
 
-Research shows that loneliness and social isolation can damage our health. Lacking social connection puts you at risk for early death just like smoking 15 cigarettes a day, being obese, or physically inactive. Loneliness increases the likelihood of mortality by 26%. [Campaign to End Loneliness](https://www.campaigntoendloneliness.org/loneliness-research/)
+Research shows that loneliness and social isolation can damage our health. Lacking social connection puts you at risk for early death just like smoking 15 cigarettes a day, being obese, or physically inactive. Loneliness increases the likelihood of mortality by 26%. ([Campaign to End Loneliness](https://www.campaigntoendloneliness.org/loneliness-research/))
 
 This makes PlaceCal a crucial solution for improving community health outcomes through tackling the problem asset mapping and enabling social prescribing.
 

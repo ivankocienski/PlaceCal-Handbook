@@ -1,6 +1,8 @@
 # Who is using PlaceCal?
 
-PlaceCal is used by many different people in the community, but some of them find parts of their jobs transformed by using the platform.
+PlaceCal has already been rolled out in Moss Side, Hulme. Now it's being piloted in Moss Side and Moston.
+
+PlaceCal is used by many different people in these communities, but a few particular individuals find parts of their jobs are transformed by using the platform.
 
 Here are two key examples of people who are now benefiting from using PlaceCal in their role already.
 
