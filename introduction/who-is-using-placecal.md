@@ -80,3 +80,7 @@ Organisations in the community are more digitally included by having access to P
 PlaceCal also reduces administration overhead for the area. It helps Patsy to coordinate her work with other people doing asset mapping as well, drastically reducing the amount of duplicate information held by different organisations.
 
 _Find out more about PlaceCal's role in promoting_ [_Digital Inclusion_](/commissioners/digital-inclusion.md).
+
+## Community groups using PlaceCal
+
+Patsy and Alasdair were examples of end users benefiting from the PlaceCal platform. Now we'll look at some of the community groups promoting their events through PlaceCal.

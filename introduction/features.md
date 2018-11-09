@@ -34,6 +34,8 @@ These PlaceCal roles are clearly defined and each type of person uses our calend
 
 Find out more in the [PlaceCal glossary](/glossary.md).
 
+PlaceCal delivers more than 220 events per week – and that's just in Moss Side! It currently has more than 17 partners publishing events, with more in the process of being trained. 
+
 
 ## PlaceCal training program
 
