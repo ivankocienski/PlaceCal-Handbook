@@ -22,7 +22,7 @@ PlaceCal has been enabling people to work together better by making it easy to s
 
 ## 3. It has a wide reach
 
-Our website [PlaceCal.org](https://PlaceCal.org) shows events from our pilot area Hulme and Moss Side in Manchester, UK. It was launched in December 2017, and we're currently expanding to Moston.
+Our website [PlaceCal.org](https://PlaceCal.org) shows events from our pilot area Hulme and Moss Side in Manchester, UK. It was launched in December 2017, and we're currently expanding to Moston and Mossley.
 
 As a hub for event information, it is frequently used for print-outs and adapted for posters, flyers, brochures and community radio broadcasts which can reach people who may not be as digitally connected.
 
