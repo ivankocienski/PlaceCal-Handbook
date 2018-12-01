@@ -1,8 +1,21 @@
 # Why PlaceCal was founded
 
-PlaceCal started as part of a research project at MMU into making cities more friendly for the over 50s and reduce social isolation. This research looks at communities, places, facilities and people in four areas of Greater Manchester.
+PlaceCal started as part of a research project at Manchester Metropolitan University.
 
-One of the first things we found was that people thought there was nothing to do in their areas. We went out to see if this was true, and after talking to dozens of organisations and community members, we found there was a huge variety of activities to take part in.
+The aim of the project was to look into making cities more friendly for the over 50s, and reduce social isolation.
+
+The research looked at communities, places, facilities and people in four areas of Greater Manchester:
+
+
+## Our findings
+
+One of the first things we found was that people thought there was nothing to do in their areas. This meant they were stuck at home, alone.
+
+We wondered if that was really the case, however. Perhaps there was a lack of information?
+
+We went out to see if the assumption that there was nothing to do was true. After talking to dozens of organisations and community members, we discovered there was a huge variety of activities to take part in.
+
+## The problem
 
 It became clear to us that the problem is one of communication. Mainstream social media sites like Facebook and Twitter are aimed at a specific type of event: large, well promoted, one-off events, generally for younger people. We realised we needed a way for small organisations to promote the more day-to-day events for less socially mobile and older people -- it was here that the idea for PlaceCal was born.
 
