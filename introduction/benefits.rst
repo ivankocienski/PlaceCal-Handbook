@@ -4,7 +4,7 @@ PlaceCal is community calendar that is updated by the local organisations themse
 
 Using PlaceCal, communities can improve their social connection by getting people out of their homes, and tackles the wider health that result from isolation.
 
-PlaceCal has a broad range of specific benefits:  
+PlaceCal has a broad range of specific benefits:
 
 ## 1. It works with existing resources
 
