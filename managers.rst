@@ -5,7 +5,6 @@ Manager Guide
 
    managers/benefits
    managers/how-do-i-join-placecal
-   managers/management
    managers/support-and-maintenance
 
 Managers are the people who manage the day-to-day running of their
