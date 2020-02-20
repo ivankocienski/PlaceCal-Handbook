@@ -21,7 +21,7 @@ import sphinx_rtd_theme
 project = 'PlaceCal Handbook'
 copyright = '2017-2020, Place Health Technology CIC'
 author = 'Dr Kim Foale, Catherine Heath'
-
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
