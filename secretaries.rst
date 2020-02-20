@@ -1,6 +1,15 @@
 Secretary Guide
 ===============
 
+.. toctree::
+   :hidden:
+
+   secretaries/getting-started
+   secretaries/initial-workshop
+   secretaries/initial-onboarding
+   secretaries/calendar-onboarding
+   secretaries/followups.md
+
 Secretaries are the human face of PlaceCal. These people work with the
 resident-led partnerships to support neighbourhood organisations to
 publish their information. They can be anyone but they are usually

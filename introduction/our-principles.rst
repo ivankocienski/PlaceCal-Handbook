@@ -1,5 +1,5 @@
-Philosophy
-==========
+Our Principles
+==============
 
 Capability-based
 ----------------

@@ -1,5 +1,12 @@
 Manager Guide
 =============
+.. toctree::
+   :hidden:
+
+   managers/benefits
+   managers/how-do-i-join-placecal
+   managers/management
+   managers/support-and-maintenance
 
 Managers are the people who manage the day-to-day running of their
 organisation (Partner). They might be involved in the legal structure of

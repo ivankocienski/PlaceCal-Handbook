@@ -3,8 +3,6 @@ Commissioner Guide
 
 .. toctree::
    :hidden:
-   :maxdepth: 1
-   :caption: Introduction:
 
    commissioners/benefits.md
    commissioners/digital-inclusion.md
@@ -46,8 +44,4 @@ Here’s a presentation explaining exactly what PlaceCal does:
 
 .. raw:: html
 
-   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSkP_utmU9Mf1kl2OCPtZo_tljybcTznhiifQylwqHJoPuyj4ALg-7N5KCEJp4Tr7V1dx9YZewjGNFE/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
-
-.. raw:: html
-
-   </iframe>
+   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSkP_utmU9Mf1kl2OCPtZo_tljybcTznhiifQylwqHJoPuyj4ALg-7N5KCEJp4Tr7V1dx9YZewjGNFE/embed?start=false&amp;loop=false&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

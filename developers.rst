@@ -1,5 +1,11 @@
 Developer Guide
 ===============
+.. toctree::
+   :hidden:
+   
+   glossary
+   developers/user-access
+   developers/roadmap
 
 Getting started
 ---------------

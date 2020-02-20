@@ -1,10 +1,9 @@
 Welcome to the PlaceCal Handbook!
 =================================
-
 .. toctree::
    :hidden:
+   :titlesonly:
    :maxdepth: 2
-   :caption: Introduction:
 
    introduction
    commissioners
@@ -82,9 +81,9 @@ feeds.
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. Indices and tables
+.. ==================
+..
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`

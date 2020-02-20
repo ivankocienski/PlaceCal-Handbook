@@ -1,6 +1,17 @@
 What is PlaceCal?
 =================
 
+.. toctree::
+   :hidden:
+   :titlesonly:
+
+   introduction/philosophy
+   introduction/why-use-placecal
+   introduction/what-does-placecal-do
+   introduction/who-is-using-placecal
+   introduction/our-principles
+   introduction/why-placecal-was-founded
+
 PlaceCal helps people in Greater Manchester become more socially
 connected with one another through attending free local events.
 
@@ -11,7 +22,7 @@ great neighbourhood information sources that enable community wellness
 and active citizenship.
 
 What do people use it for?
-==========================
+--------------------------
 
 People can discover small local groups that organise regular free events
 for their community. These events are often difficult to find without
@@ -22,7 +33,7 @@ with little to no budget or staff time to devote to promotion beyond
 posting them online.
 
 What are the benefits?
-======================
+----------------------
 
 When people can’t find events near them, they may become lonely and
 isolated. This often results in mental and physical deterioration which
@@ -32,7 +43,7 @@ improving the physical and mental health of people in the community, as
 well as their overall wellbeing.
 
 How does it benefit the community?
-==================================
+----------------------------------
 
 It works over clearly defined areas called “neighbourhoods”, such as
 Hulme.
@@ -47,7 +58,7 @@ These neighbourhoods work better for everyone, but especially people who
 are currently digitally excluded.
 
 Who can use it?
-===============
+---------------
 
 Our tools can be used by everyone from older people to social
 prescribers such as doctors and library assistants. It’s not a top-down

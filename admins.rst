@@ -1,5 +1,14 @@
 Administrator Guide
 ===================
+.. toctree::
+   :hidden:
+   
+   admins/google-calendar
+   admins/outlook-365
+   admins/mac-calendar
+   admins/facebook
+   admins/writing-good-event-descriptions
+   admins/common-concerns
 
 PlaceCal Administrators (admin) support the Managers. They are the
 people who update the events listings and other information directly.

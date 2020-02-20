@@ -15,10 +15,8 @@ foundation: watch this space!
 PlaceCal Team
 -------------
 
--  Dr Kim Foale kim@placecal.org: CTO / Managing director.
+-  Dr Kim Foale kim@gfsc.studio: CTO / Managing director.
 -  Prof. Stefan White s.white@mmu.ac.uk: Executive director.
--  Mark Dormand mark@studiosquid.co.uk: Creative consultant & brand
-   designer.
--  April Manderson april@placecal.org: General secretary.
+-  Mark Dormand mark@studiosquid.co.uk: Creative consultant & brand designer.
 -  Gabriella Grant gabriella@placecal.org: Website developer.
 -  Catherine Heath catherine@awaywithwords.co: Documentarian.
