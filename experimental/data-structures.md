@@ -61,4 +61,6 @@ Calendars are created by Partner admins to import events in bulk from an online 
 
 ## Tags
 
-(TBD)
+_(currently non-functional)_
+
+Tags allow Site admins (secretaries) to associate a Partner with a set of properties.
