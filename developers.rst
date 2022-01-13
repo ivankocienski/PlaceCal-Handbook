@@ -6,8 +6,7 @@ Developer Guide
    glossary
    developers/user-access
    developers/roadmap
-   developers/on-boarding
-   developers/theory-of-operation
+   developers/data-structures
 
 Getting started
 ---------------
