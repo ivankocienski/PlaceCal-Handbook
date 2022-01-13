@@ -6,6 +6,7 @@ Developer Guide
    glossary
    developers/user-access
    developers/roadmap
+   developers/data-structures
 
 Getting started
 ---------------
