@@ -52,8 +52,8 @@ socially isolated to become even more entrenched and hard to reach. It’s
 not possible for such people to just “go online”.
 
 The benefit of PlaceCal is not requiring its users to be able to use the
-internet, since other individuals (such as GPs) can `socially
-prescribe </introduction/who-is-using-placecal.md>`__ to them. On the
+internet, since other individuals (such as GPs) can :doc:`socially
+prescribe </introduction/who-is-using-placecal>` to them. On the
 other hand, if individuals want to use our website, it’s easily
 accessible in multiple ways, such as automatically displaying in a large
 font.
@@ -80,5 +80,5 @@ We are currently live in Hulme and Moss Side, and expanding to Moston.
 Each area has its own website with a calendar of events, updated
 regularly with multiple listings.
 
-Find out more about how to `get started with
-PlaceCal </commissioners/getting-started.md>`__.
+Find out more about how to :doc:`get started with
+PlaceCal </commissioners/getting-started>`.

@@ -75,5 +75,4 @@ It is an innovative blend of community partnership building, education
 and IT infrastructure.
 
 PlaceCal ticks all the boxes and we’re with you every step of the way.
-Find out more about `our
-principles </introduction/our-principles.md>`__.
+Find out more about :doc:`our principles <our-principles>`.

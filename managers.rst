@@ -25,15 +25,15 @@ and newspapers, and even new digital bus stop signs!
 
 This guide contains:
 
-1. `Benefits <managers/benefits.md>`__: ways PlaceCal will help your
+1. :doc:`Benefits </managers/benefits>`: ways PlaceCal will help your
    organisation and who will use the information hosted by PlaceCal.
-2. `Joining <managers/how-do-i-join-placecal.md>`__: the practical
+2. :doc:`Joining <managers/how-do-i-join-placecal>`: the practical
    process of getting your information and events online and what to
    expect from PlaceCal.
-3. `Management <managers/management.md>`__: what kind of skills you will
+3. :doc:`Management <managers/management>`: what kind of skills you will
    need in your organisation to make PlaceCal work, and how to fit
    PlaceCal into your existing capacity with very little effort.
-4. `Support & Maintenance <managers/support-and-maintanance.md>`__: how
+4. :doc:`Support & Maintenance <managers/support-and-maintenance>`: how
    we will work together to keep your listings on PlaceCal up-to-date.
 
 How much work is it to use PlaceCal?

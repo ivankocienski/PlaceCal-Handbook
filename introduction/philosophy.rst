@@ -91,8 +91,7 @@ coffee mornings, sewing groups and computer classes.
 
 Many GPs want to socially prescribe instead of prescribing drugs, but
 are currently struggling with a lack of quality information. Find out
-more about our `social
-prescribers </introduction/who-is-using-placecal.md>`__.
+more about our :doc:`social prescribers <who-is-using-placecal>`.
 
 Place-based
 -----------
@@ -150,5 +149,4 @@ formats and translations.
 
    PlaceCal on a smartphone
 
-Find out more about PlaceCal’s approach to `digital
-inclusion </commissioners/digital-inclusion.md>`__.
+Find out more about PlaceCal’s approach to :doc:`digital inclusion </commissioners/digital-inclusion>`.

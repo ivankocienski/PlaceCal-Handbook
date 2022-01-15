@@ -15,7 +15,7 @@ Getting started with PlaceCal can be broken down into 7 steps.
 4. **Meet partners:** Arrange for your Secretaries to contact all
    potential Partners (community groups), and ask to meet up. `Fill out
    this
-   form </https://docs.google.com/document/d/1_tSioQTu0DaRaWDRzpFY5C1GxmleZgsfBnc5gX4C9p8/edit>`__
+   form <https://docs.google.com/document/d/1_tSioQTu0DaRaWDRzpFY5C1GxmleZgsfBnc5gX4C9p8/edit>`__
    to get started.
 5. **Conduct interviews:** We arrange for the Secretaries conduct the
    initial interviews with potential area Partners, and ask them to sign
