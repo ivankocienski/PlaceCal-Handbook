@@ -94,7 +94,7 @@ for some time
 
 *Image caption: Alasdair using the PlaceCal calendar in his practice*
 
-`Find out more </introduction/benefits.md>`__ *about what PlaceCal
+:doc:`Find out more </commissioners/benefits>` *about what PlaceCal
 offers social prescribers like Alasdair*
 
 --------------
@@ -147,8 +147,8 @@ Patsy to coordinate her work with other people doing asset mapping as
 well, drastically reducing the amount of duplicate information held by
 different organisations.
 
-*Find out more about PlaceCal’s role in promoting* `Digital
-Inclusion </commissioners/digital-inclusion.md>`__.
+*Find out more about PlaceCal’s role in promoting* 
+:doc:`Digital Inclusion </commissioners/digital-inclusion>`.
 
 Community groups using PlaceCal
 -------------------------------
