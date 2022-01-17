@@ -11,12 +11,3 @@ support from Manchester City Council.
 
 We’re working towards co-operative status and the creation of a PlaceCal
 foundation: watch this space!
-
-PlaceCal Team
--------------
-
--  Dr Kim Foale kim@gfsc.studio: CTO / Managing director.
--  Prof. Stefan White s.white@mmu.ac.uk: Executive director.
--  Mark Dormand mark@studiosquid.co.uk: Creative consultant & brand designer.
--  Gabriella Grant gabriella@placecal.org: Website developer.
--  Catherine Heath catherine@awaywithwords.co: Documentarian.
