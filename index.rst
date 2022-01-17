@@ -34,7 +34,7 @@ PlaceCal in their area. We look at how PlaceCal can fulfil your
 asset-mapping remit, and enable a transformational change in the
 relationships between organisations and institutions in your region.
 
-`Read the Commissioner Handbook <commissioners.md>`__
+:doc:`Read the Commissioner Handbook <commissioners>`
 
 Secretaries
 -----------
@@ -46,7 +46,7 @@ or community organisers delivering PlaceCal on the ground.
 Our Secretary Handbook takes you through the stages of delivering
 PlaceCal from inception to maintenance.
 
-`Read the Secretary Handbook <secretaries.md>`__
+:doc:`Read the Secretary Handbook <secretaries>`
 
 Managers
 --------
@@ -58,7 +58,7 @@ community groups running a coffee morning out their living room.
 This guide outlines the benefits for your organisation and outlines what
 you’ll need to join the partnership.
 
-`Read the Manager Handbook <managers.md>`__
+:doc:`Read the Manager Handbook <managers>`
 
 Admins
 ------
@@ -68,7 +68,7 @@ information on PlaceCal. They will work with a Secretary to create a
 listing of their organisation on PlaceCal, and add their event feed to
 the centralised daily events listings.
 
-`Read the Admin Handbook <admins.md>`__
+:doc:`Read the Admin Handbook <admins>`
 
 Developers
 ----------
@@ -77,7 +77,7 @@ Developers are anyone interested in working on the PlaceCal platform,
 adapting it for their own area, or who wants to work with PlaceCal’s API
 feeds.
 
-`Read the Developer Handbook <developers.md>`__
+:doc:`Read the Developer Handbook <developers>`
 
 
 

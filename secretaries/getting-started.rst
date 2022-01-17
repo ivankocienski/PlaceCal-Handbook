@@ -1,5 +1,7 @@
+.. _secretaries-getting-started:
+***************
 Getting Started
-===============
+***************
 
 This page takes you from project conception to conducting the initial
 workshop. It looks at:

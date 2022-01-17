@@ -6,11 +6,13 @@ Developer Guide
    glossary
    developers/user-access
    developers/roadmap
+   developers/data-structures
+   experimental/routing
 
 Getting started
 ---------------
 
-Read the `Glossary <glossary.md>`__.
+Read the :doc:`Glossary <glossary>`.
 
 Tools
 ~~~~~
@@ -60,12 +62,12 @@ for anything live then take the time to do it.
 User access
 -----------
 
-See the `User Access Guide <developers/user-access.md>`__
+See the :doc:`User Access Guide </developers/user-access>`.
 
 Roadmap
 -------
 
-See the current `Roadmap <developers/roadmap.md>`__
+See the current :doc:`Roadmap <developers/roadmap>`.
 
 Getting API access
 ------------------

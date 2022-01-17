@@ -24,7 +24,7 @@ core program. PlaceCal imports and connects information from
 neighbourhood institutions and organisations who have signed up to be
 part of our program. As long as partners input their data regularly,
 PlaceCal will import, aggregate and publish on to the
-`PlaceCal.org <placecal.org>`__ website automatically.
+`PlaceCal.org <https://placecal.org>`__ website automatically.
 
 .. figure:: https://raw.githubusercontent.com/geeksforsocialchange/PlaceCal-Handbook/master/assets/placecal-technological-infrastructure.png
    :alt: PlaceCal technological infrastructure
@@ -67,7 +67,7 @@ our calendar in a different way:
 -  **Developers** – someone interested in using the PlaceCal software or
    API for their own purpose
 
-Find out more in the `PlaceCal glossary </glossary.md>`__.
+Find out more in the :doc:`PlaceCal glossary </glossary>`.
 
 PlaceCal delivers more than 220 events per week – and that’s just in
 Moss Side! It currently has more than 17 partners publishing events,
@@ -103,5 +103,4 @@ the community is in charge of its local information. They ensure that
 the information produced is trustworthy, which can then be recommended
 back to local health and community organisations.
 
-Find out more about `who uses
-PlaceCal </introduction/who-is-using-placecal.md>`__.
+Find out more about :doc:`who uses PlaceCal <who-is-using-placecal>`.

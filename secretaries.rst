@@ -28,21 +28,21 @@ They’re available on the phone or by email for one-to-one local support.
 
 The Secretary Guide has the following sections:
 
-1. `Getting Started </secretaries/getting-started.md>`__ looks at the
+1. :doc:`/secretaries/getting-started` looks at the
    tools you’ll need to use and how to kick the whole project off.
-2. `Initial Workshop </secretaries/initial-workshop.md>`__ explores what
+2. :doc:`Initial Workshop </secretaries/initial-workshop>` explores what
    to expect at your initial partnership meeting, and how to get the
    project off on the right foot.
-3. `Initial Onboarding </secretaries/intiial-onboarding.md>`__ takes you
+3. :doc:`Initial Onboarding </secretaries/initial-onboarding>` takes you
    through each meeting with a group, and shows an example flow and what
    kinds of information you need to collect.
-4. `Calendar Onboarding </secretaries/calendar-onboarding.md>`__
+4. :doc:`Calendar Onboarding </secretaries/calendar-onboarding>`
    demonstrates how to get groups’ events onto PlaceCal.
-5. `Followups </secretaries/followups.md>`__ has suggestions for how to
+5. :doc:`Followups </secretaries/followups>` has suggestions for how to
    ensure information stays up-to-date and complete.
 
-You’ll also want to read the `Manager </managers.md>`__ and
-`Administrator </administrator.md>`__ guides in order to understand the
+You’ll also want to read the :doc:`Manager </managers>` and
+:doc:`Administrator </admins>` guides in order to understand the
 materials you’ll be teaching.
 
 In flowchart form, these stages are represented as follows:
@@ -52,4 +52,4 @@ In flowchart form, these stages are represented as follows:
 
    Onboarding
 
-(`Source - Dia format </assets/onboarding.dia>`__)
+(:doc:`Source - Dia format </assets/onboarding.dia>`)

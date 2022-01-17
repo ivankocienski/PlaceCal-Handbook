@@ -39,8 +39,7 @@ community groups.
 
 50% of community organisations don’t have a website at all, let alone an
 up-to-date one. That means many residents can’t find out what’s going on
-if they’re not already `socially
-connected </commissioners/digital-inclusion.md>`__.
+if they’re not already :doc:`socially connected <digital-inclusion>`.
 
 Budget-friendly
 ---------------
@@ -67,9 +66,8 @@ An NHS England survey found that 40% of GPs would “socially prescribe” –
 send patients to community groups if they had access to the right
 information.
 
-*Check out our*\ `case
-studies </introduction/who-is-using-placecal.md>`__\ *for PlaceCal
-users.*
+*Check out our* :doc:`case studies </introduction/who-is-using-placecal>` 
+*for PlaceCal users.*
 
 Field research
 --------------
