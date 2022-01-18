@@ -17,6 +17,8 @@ Sites have a primary neighbourhood indicated by a field on one of the SiteNeighb
 
 Neighbourhoods are recursively self-referential: this is how areas can contain areas like regions having many post-codes.
 
+The hierarchy of the unit field in the Neighbourhood model is: country->region->county->district->ward.
+
 Users
 ~~~~~
 
@@ -81,4 +83,4 @@ Tags
 
 *(currently non-functional)*
 
-Tags allow Site admins (secretaries) to associate a Partner with a set of properties.
+Tags allow Site admins (coordinators) to associate a Partner with a set of properties.
