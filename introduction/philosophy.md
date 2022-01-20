@@ -12,7 +12,7 @@ It was responding to the need for older people, community organisations
 and institutional partners to work together more effectively.
 
 This project was a collaboration between Dr Kim Foale (Geeks for Social
-Change), Prof. Stefan White (<mailto:PHASE@MMU>) and the Manchester Age Friendly
+Change), Prof. Stefan White (PHASE@MMU) and the Manchester Age Friendly
 Network (MAFN).
 
 **Phase one**
